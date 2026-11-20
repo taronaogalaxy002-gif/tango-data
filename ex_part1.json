@@ -1,0 +1,432 @@
+[
+ {
+  "id": 1,
+  "en": "witty",
+  "ja": "機知のある 気の利いた"
+ },
+ {
+  "id": 2,
+  "en": "whole",
+  "ja": "無傷の"
+ },
+ {
+  "id": 3,
+  "en": "weary",
+  "ja": "ひどく疲れた、飽き飽きして"
+ },
+ {
+  "id": 4,
+  "en": "vulnerable",
+  "ja": "傷つきやすい かかりやすい"
+ },
+ {
+  "id": 5,
+  "en": "vulnerability",
+  "ja": "脆弱性"
+ },
+ {
+  "id": 6,
+  "en": "vivid",
+  "ja": "生き生きとした 鮮明な"
+ },
+ {
+  "id": 7,
+  "en": "viewpoint",
+  "ja": "観点 見方"
+ },
+ {
+  "id": 8,
+  "en": "vicious",
+  "ja": "獰猛な 凶暴な"
+ },
+ {
+  "id": 9,
+  "en": "vacate",
+  "ja": "明け渡す"
+ },
+ {
+  "id": 10,
+  "en": "vacant",
+  "ja": "空いている、使われていない、欠員の"
+ },
+ {
+  "id": 11,
+  "en": "vacancy",
+  "ja": "空き 欠員"
+ },
+ {
+  "id": 12,
+  "en": "uphold",
+  "ja": "守る"
+ },
+ {
+  "id": 13,
+  "en": "trivial",
+  "ja": "ささいな つまらない"
+ },
+ {
+  "id": 14,
+  "en": "tranquil",
+  "ja": "静かな、穏やかな"
+ },
+ {
+  "id": 15,
+  "en": "throw away",
+  "ja": "捨てる"
+ },
+ {
+  "id": 16,
+  "en": "thrive",
+  "ja": "繁栄する 成功する よく成長する"
+ },
+ {
+  "id": 17,
+  "en": "thaw",
+  "ja": "解ける"
+ },
+ {
+  "id": 18,
+  "en": "tackle",
+  "ja": "取り組む"
+ },
+ {
+  "id": 19,
+  "en": "swell",
+  "ja": "腫れる"
+ },
+ {
+  "id": 20,
+  "en": "sway",
+  "ja": "揺れる 揺れ動く ぐらつく"
+ },
+ {
+  "id": 21,
+  "en": "surplus",
+  "ja": "余剰、余剰分、黒字"
+ },
+ {
+  "id": 22,
+  "en": "summon",
+  "ja": "呼び出す 召喚する"
+ },
+ {
+  "id": 23,
+  "en": "stroll",
+  "ja": "散策 そぞろ歩き"
+ },
+ {
+  "id": 24,
+  "en": "stand by",
+  "ja": "傍観する"
+ },
+ {
+  "id": 25,
+  "en": "stale",
+  "ja": "新鮮でない 陳腐な"
+ },
+ {
+  "id": 26,
+  "en": "spontaneous",
+  "ja": "自発的な 自然に生まれる"
+ },
+ {
+  "id": 27,
+  "en": "spontaneity",
+  "ja": "自発性"
+ },
+ {
+  "id": 28,
+  "en": "signify",
+  "ja": "示す 知らせる"
+ },
+ {
+  "id": 29,
+  "en": "shrug",
+  "ja": "肩をすくめる"
+ },
+ {
+  "id": 30,
+  "en": "serene",
+  "ja": "静かな 穏やかな"
+ },
+ {
+  "id": 31,
+  "en": "segment",
+  "ja": "部分、区分"
+ },
+ {
+  "id": 32,
+  "en": "rotate",
+  "ja": "交替する 循環する"
+ },
+ {
+  "id": 33,
+  "en": "revolve",
+  "ja": "回転する"
+ },
+ {
+  "id": 34,
+  "en": "revolution",
+  "ja": "回転 革命"
+ },
+ {
+  "id": 35,
+  "en": "resumption",
+  "ja": "再開"
+ },
+ {
+  "id": 36,
+  "en": "resume",
+  "ja": "再開する"
+ },
+ {
+  "id": 37,
+  "en": "reluctant",
+  "ja": "きのりがしない しぶしぶの"
+ },
+ {
+  "id": 38,
+  "en": "reluctance",
+  "ja": "気が進まないこと"
+ },
+ {
+  "id": 39,
+  "en": "refinement",
+  "ja": "洗練"
+ },
+ {
+  "id": 40,
+  "en": "refine",
+  "ja": "洗練 改良する、磨く"
+ },
+ {
+  "id": 41,
+  "en": "reconstruct",
+  "ja": "再現する、再建する"
+ },
+ {
+  "id": 42,
+  "en": "reconciliation",
+  "ja": "調整 和解"
+ },
+ {
+  "id": 43,
+  "en": "reconcile",
+  "ja": "調和させる、調整する"
+ },
+ {
+  "id": 44,
+  "en": "rash",
+  "ja": "性急な 軽率な"
+ },
+ {
+  "id": 45,
+  "en": "ransom",
+  "ja": "身代金 身代金を払って解放してもらう"
+ },
+ {
+  "id": 46,
+  "en": "prosper",
+  "ja": "繁栄する 成功する"
+ },
+ {
+  "id": 47,
+  "en": "proclamation",
+  "ja": "宣言 公布"
+ },
+ {
+  "id": 48,
+  "en": "proclaim",
+  "ja": "宣言する 公布する"
+ },
+ {
+  "id": 49,
+  "en": "presumption",
+  "ja": "推定"
+ },
+ {
+  "id": 50,
+  "en": "presume",
+  "ja": "推定する、見なす"
+ },
+ {
+  "id": 51,
+  "en": "petition",
+  "ja": "嘆願書、嘆願する"
+ },
+ {
+  "id": 52,
+  "en": "pessimistic",
+  "ja": "悲観的な"
+ },
+ {
+  "id": 53,
+  "en": "perspective",
+  "ja": "観点 見方"
+ },
+ {
+  "id": 54,
+  "en": "pay heed to",
+  "ja": "注意を払う"
+ },
+ {
+  "id": 55,
+  "en": "pass out",
+  "ja": "気絶する"
+ },
+ {
+  "id": 56,
+  "en": "overthrow",
+  "ja": "転覆させる"
+ },
+ {
+  "id": 57,
+  "en": "overhead compartment",
+  "ja": "飛行機の手荷物入れ"
+ },
+ {
+  "id": 58,
+  "en": "overdue",
+  "ja": "期限が過ぎて、遅れて もっと早くすべきで"
+ },
+ {
+  "id": 59,
+  "en": "optimistic",
+  "ja": "楽観的な 楽天主義の"
+ },
+ {
+  "id": 60,
+  "en": "optimist",
+  "ja": "楽天家"
+ },
+ {
+  "id": 61,
+  "en": "optimism",
+  "ja": "楽天主義"
+ },
+ {
+  "id": 62,
+  "en": "onlooker",
+  "ja": "傍観者 見物人"
+ },
+ {
+  "id": 63,
+  "en": "obstacle",
+  "ja": "障害 支障"
+ },
+ {
+  "id": 64,
+  "en": "obsession",
+  "ja": "取りつかれていること"
+ },
+ {
+  "id": 65,
+  "en": "obsessed",
+  "ja": "心を奪われた、取りつかれた"
+ },
+ {
+  "id": 66,
+  "en": "nutritious",
+  "ja": "栄養のある"
+ },
+ {
+  "id": 67,
+  "en": "nutritional",
+  "ja": "栄養に関する"
+ },
+ {
+  "id": 68,
+  "en": "nutrition",
+  "ja": "栄養摂取 栄養状態"
+ },
+ {
+  "id": 69,
+  "en": "nutrient",
+  "ja": "栄養物 栄養素"
+ },
+ {
+  "id": 70,
+  "en": "notorious",
+  "ja": "悪名高い よく知られた"
+ },
+ {
+  "id": 71,
+  "en": "notoriety",
+  "ja": "悪評 悪名"
+ },
+ {
+  "id": 72,
+  "en": "minority",
+  "ja": "少数者 少数民族"
+ },
+ {
+  "id": 73,
+  "en": "minor",
+  "ja": "未成年者 あまり重要でない 深刻でない"
+ },
+ {
+  "id": 74,
+  "en": "merit",
+  "ja": "実績 功績 長所"
+ },
+ {
+  "id": 75,
+  "en": "merciful",
+  "ja": "寛大な 甘い"
+ },
+ {
+  "id": 76,
+  "en": "mandatory",
+  "ja": "義務的な 強制的な"
+ },
+ {
+  "id": 77,
+  "en": "lenient",
+  "ja": "寛大な、甘い"
+ },
+ {
+  "id": 78,
+  "en": "itinerary",
+  "ja": "旅程、旅行計画"
+ },
+ {
+  "id": 79,
+  "en": "integration",
+  "ja": "統合"
+ },
+ {
+  "id": 80,
+  "en": "integrate",
+  "ja": "統合する まとめる"
+ },
+ {
+  "id": 81,
+  "en": "intact",
+  "ja": "損なわれていない 無傷で"
+ },
+ {
+  "id": 82,
+  "en": "in bulk",
+  "ja": "大量に"
+ },
+ {
+  "id": 83,
+  "en": "impractical",
+  "ja": "現実的でない 実用的でない"
+ },
+ {
+  "id": 84,
+  "en": "implicit",
+  "ja": "暗に示された"
+ },
+ {
+  "id": 85,
+  "en": "heed",
+  "ja": "気をつける、心に留める"
+ },
+ {
+  "id": 86,
+  "en": "hectic",
+  "ja": "慌ただしい 非常に忙しい"
+ }
+]

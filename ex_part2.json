@@ -1,0 +1,427 @@
+[
+ {
+  "id": 87,
+  "en": "hasty",
+  "ja": "急ぎの 慌ただしい 軽率な"
+ },
+ {
+  "id": 88,
+  "en": "halt",
+  "ja": "止まる 停止する"
+ },
+ {
+  "id": 89,
+  "en": "habitual",
+  "ja": "常習的な、習慣的な"
+ },
+ {
+  "id": 90,
+  "en": "go bankrupt",
+  "ja": "破産する"
+ },
+ {
+  "id": 91,
+  "en": "fragile",
+  "ja": "壊れやすい、不安定な"
+ },
+ {
+  "id": 92,
+  "en": "fierce",
+  "ja": "獰猛な 凶暴な"
+ },
+ {
+  "id": 93,
+  "en": "fictitious",
+  "ja": "虚構の 架空の"
+ },
+ {
+  "id": 94,
+  "en": "faint",
+  "ja": "気絶する かすかな"
+ },
+ {
+  "id": 95,
+  "en": "extravagantly",
+  "ja": "盛大に"
+ },
+ {
+  "id": 96,
+  "en": "extravagant",
+  "ja": "浪費する ぜいたくな"
+ },
+ {
+  "id": 97,
+  "en": "explicit",
+  "ja": "明白な あからさまな"
+ },
+ {
+  "id": 98,
+  "en": "exemption",
+  "ja": "免除"
+ },
+ {
+  "id": 99,
+  "en": "exempt",
+  "ja": "免除された 免除する"
+ },
+ {
+  "id": 100,
+  "en": "exclude",
+  "ja": "外す"
+ },
+ {
+  "id": 101,
+  "en": "exceptionally",
+  "ja": "例外的に 特別に"
+ },
+ {
+  "id": 102,
+  "en": "exceptional",
+  "ja": "特にすぐれた 例外的な 特別な"
+ },
+ {
+  "id": 103,
+  "en": "exception",
+  "ja": "例外"
+ },
+ {
+  "id": 104,
+  "en": "evaluate",
+  "ja": "評価する"
+ },
+ {
+  "id": 105,
+  "en": "enrollment",
+  "ja": "登録、入学"
+ },
+ {
+  "id": 106,
+  "en": "enroll",
+  "ja": "登録する 入学する"
+ },
+ {
+  "id": 107,
+  "en": "enlist",
+  "ja": "得る、求める、入隊する"
+ },
+ {
+  "id": 108,
+  "en": "enhance",
+  "ja": "高める 向上させる"
+ },
+ {
+  "id": 109,
+  "en": "enforcement",
+  "ja": "施行"
+ },
+ {
+  "id": 110,
+  "en": "enforce",
+  "ja": "守らせる、施行する"
+ },
+ {
+  "id": 111,
+  "en": "elimination",
+  "ja": "除去"
+ },
+ {
+  "id": 112,
+  "en": "eliminate",
+  "ja": "取り除く、外す、敗退させる"
+ },
+ {
+  "id": 113,
+  "en": "edible",
+  "ja": "食べられる"
+ },
+ {
+  "id": 114,
+  "en": "due",
+  "ja": "期限の来た"
+ },
+ {
+  "id": 115,
+  "en": "disguise oneself",
+  "ja": "変装する"
+ },
+ {
+  "id": 116,
+  "en": "disguise",
+  "ja": "変装させる、偽装する"
+ },
+ {
+  "id": 117,
+  "en": "discard",
+  "ja": "捨てる、処分する"
+ },
+ {
+  "id": 118,
+  "en": "detention",
+  "ja": "拘留"
+ },
+ {
+  "id": 119,
+  "en": "detain",
+  "ja": "引き留める 拘留する"
+ },
+ {
+  "id": 120,
+  "en": "designation",
+  "ja": "指定"
+ },
+ {
+  "id": 121,
+  "en": "designate",
+  "ja": "指定する 指名する"
+ },
+ {
+  "id": 122,
+  "en": "descent",
+  "ja": "家系"
+ },
+ {
+  "id": 123,
+  "en": "descendant",
+  "ja": "子孫、末裔"
+ },
+ {
+  "id": 124,
+  "en": "deficit",
+  "ja": "不足 赤字"
+ },
+ {
+  "id": 125,
+  "en": "decisive",
+  "ja": "決定的な 断固とした"
+ },
+ {
+  "id": 126,
+  "en": "decision",
+  "ja": "決定"
+ },
+ {
+  "id": 127,
+  "en": "decay",
+  "ja": "腐る、朽ちる、虫歯になる、腐敗、虫歯"
+ },
+ {
+  "id": 128,
+  "en": "daring",
+  "ja": "大胆な、大胆さ、勇敢さ"
+ },
+ {
+  "id": 129,
+  "en": "custody",
+  "ja": "保護、親権、拘置、拘留"
+ },
+ {
+  "id": 130,
+  "en": "cultivation",
+  "ja": "耕作 栽培 育成"
+ },
+ {
+  "id": 131,
+  "en": "cultivate",
+  "ja": "耕す、栽培する、育てる、養う、高める"
+ },
+ {
+  "id": 132,
+  "en": "corruption",
+  "ja": "堕落 腐敗"
+ },
+ {
+  "id": 133,
+  "en": "corrupt",
+  "ja": "堕落した 腐敗した"
+ },
+ {
+  "id": 134,
+  "en": "contemplation",
+  "ja": "熟考"
+ },
+ {
+  "id": 135,
+  "en": "contemplate doing",
+  "ja": "することを考える"
+ },
+ {
+  "id": 136,
+  "en": "contemplate",
+  "ja": "熟考する"
+ },
+ {
+  "id": 137,
+  "en": "congestion",
+  "ja": "混雑"
+ },
+ {
+  "id": 138,
+  "en": "congested",
+  "ja": "混雑した"
+ },
+ {
+  "id": 139,
+  "en": "conform to [with]",
+  "ja": "従う"
+ },
+ {
+  "id": 140,
+  "en": "conform",
+  "ja": "従う"
+ },
+ {
+  "id": 141,
+  "en": "concession",
+  "ja": "譲歩"
+ },
+ {
+  "id": 142,
+  "en": "concede",
+  "ja": "敗北を認める、認める"
+ },
+ {
+  "id": 143,
+  "en": "compulsory",
+  "ja": "義務的な 強制的な"
+ },
+ {
+  "id": 144,
+  "en": "compartment",
+  "ja": "仕切られた部分、区画"
+ },
+ {
+  "id": 145,
+  "en": "coalition",
+  "ja": "連立、連合"
+ },
+ {
+  "id": 146,
+  "en": "clumsy",
+  "ja": "不器用な ぎこちない"
+ },
+ {
+  "id": 147,
+  "en": "cherish",
+  "ja": "大事にする"
+ },
+ {
+  "id": 148,
+  "en": "bystander",
+  "ja": "傍観者見物人"
+ },
+ {
+  "id": 149,
+  "en": "bulky",
+  "ja": "大きくて扱いにくい かさばった"
+ },
+ {
+  "id": 150,
+  "en": "bribery",
+  "ja": "贈収賄"
+ },
+ {
+  "id": 151,
+  "en": "bribe",
+  "ja": "賄賂、買収する"
+ },
+ {
+  "id": 152,
+  "en": "bold",
+  "ja": "大胆な"
+ },
+ {
+  "id": 153,
+  "en": "blaze",
+  "ja": "炎火炎"
+ },
+ {
+  "id": 154,
+  "en": "be reluctant to do",
+  "ja": "するのに気乗りがしない"
+ },
+ {
+  "id": 155,
+  "en": "be obsessed with",
+  "ja": "心を奪われている"
+ },
+ {
+  "id": 156,
+  "en": "be exempt from",
+  "ja": "免除される"
+ },
+ {
+  "id": 157,
+  "en": "barricade",
+  "ja": "障害物 バリケードで囲む"
+ },
+ {
+  "id": 158,
+  "en": "bankruptcy",
+  "ja": "破産 倒産"
+ },
+ {
+  "id": 159,
+  "en": "bankrupt",
+  "ja": "破産した 倒産した"
+ },
+ {
+  "id": 160,
+  "en": "assess",
+  "ja": "評価する"
+ },
+ {
+  "id": 161,
+  "en": "ancestor",
+  "ja": "祖先"
+ },
+ {
+  "id": 162,
+  "en": "anarchy",
+  "ja": "無政府状態、無秩序"
+ },
+ {
+  "id": 163,
+  "en": "adequately",
+  "ja": "十分に"
+ },
+ {
+  "id": 164,
+  "en": "adequate",
+  "ja": "十分な 満足な"
+ },
+ {
+  "id": 165,
+  "en": "acknowledgement",
+  "ja": "承認 感謝すること"
+ },
+ {
+  "id": 166,
+  "en": "acknowledge",
+  "ja": "認める、気づいたことを示す"
+ },
+ {
+  "id": 167,
+  "en": "accelerate",
+  "ja": "加速する"
+ },
+ {
+  "id": 168,
+  "en": "abundantly",
+  "ja": "豊富に"
+ },
+ {
+  "id": 169,
+  "en": "abundant",
+  "ja": "豊富な たくさんの"
+ },
+ {
+  "id": 170,
+  "en": "abundance",
+  "ja": "豊富さ"
+ },
+ {
+  "id": 171,
+  "en": "abound",
+  "ja": "たくさんある 富む"
+ }
+]

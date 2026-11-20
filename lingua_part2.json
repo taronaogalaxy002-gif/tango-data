@@ -1,0 +1,1202 @@
+[
+ {
+  "id": 258,
+  "en": "GDP",
+  "ja": "国内総生産"
+ },
+ {
+  "id": 259,
+  "en": "GNP",
+  "ja": "国民総生産"
+ },
+ {
+  "id": 260,
+  "en": "Say's Law",
+  "ja": "セイの法則"
+ },
+ {
+  "id": 261,
+  "en": "a bad loan",
+  "ja": "不良債権"
+ },
+ {
+  "id": 262,
+  "en": "a bond",
+  "ja": "債権 証券"
+ },
+ {
+  "id": 263,
+  "en": "a dispatched worker",
+  "ja": "派遣された社員"
+ },
+ {
+  "id": 264,
+  "en": "a full-time worker",
+  "ja": "常勤者 正社員"
+ },
+ {
+  "id": 265,
+  "en": "a househusband",
+  "ja": "主夫"
+ },
+ {
+  "id": 266,
+  "en": "a large merger",
+  "ja": "大型合併"
+ },
+ {
+  "id": 267,
+  "en": "a listed company",
+  "ja": "上場会社"
+ },
+ {
+  "id": 268,
+  "en": "a medium-and small-size business",
+  "ja": "中小企業"
+ },
+ {
+  "id": 269,
+  "en": "a non-governmental organization",
+  "ja": "非政府組織"
+ },
+ {
+  "id": 270,
+  "en": "a non-profit organization",
+  "ja": "非営利組織"
+ },
+ {
+  "id": 271,
+  "en": "a part-time worker",
+  "ja": "パートタイマー"
+ },
+ {
+  "id": 272,
+  "en": "a private company",
+  "ja": "民間企業"
+ },
+ {
+  "id": 273,
+  "en": "a public corporation",
+  "ja": "公社"
+ },
+ {
+  "id": 274,
+  "en": "a rating agency",
+  "ja": "格付け機関"
+ },
+ {
+  "id": 275,
+  "en": "a small government",
+  "ja": "小さな政府"
+ },
+ {
+  "id": 276,
+  "en": "a small-size business",
+  "ja": "小企業"
+ },
+ {
+  "id": 277,
+  "en": "a stay-at-home mom",
+  "ja": "専業主婦"
+ },
+ {
+  "id": 278,
+  "en": "a subsidy to a local government",
+  "ja": "地方政府への補助金"
+ },
+ {
+  "id": 279,
+  "en": "a temporary worker",
+  "ja": "臨時の従業員"
+ },
+ {
+  "id": 280,
+  "en": "a whistle-blower",
+  "ja": "内部告発者"
+ },
+ {
+  "id": 281,
+  "en": "accountability to the public",
+  "ja": "国民への説明責任"
+ },
+ {
+  "id": 282,
+  "en": "affluent society",
+  "ja": "豊かな社会"
+ },
+ {
+  "id": 283,
+  "en": "agrarian society",
+  "ja": "農業社会(agricultural以外)"
+ },
+ {
+  "id": 284,
+  "en": "agricultural society",
+  "ja": "農業社会"
+ },
+ {
+  "id": 285,
+  "en": "agriculture",
+  "ja": "農業"
+ },
+ {
+  "id": 286,
+  "en": "an elite bureaucrat",
+  "ja": "高級官僚"
+ },
+ {
+  "id": 287,
+  "en": "annual expenditure",
+  "ja": "歳出"
+ },
+ {
+  "id": 288,
+  "en": "anti-poverty project",
+  "ja": "貧困絶滅計画"
+ },
+ {
+  "id": 289,
+  "en": "bank bailout",
+  "ja": "銀行救済"
+ },
+ {
+  "id": 290,
+  "en": "banknote",
+  "ja": "銀行紙幣"
+ },
+ {
+  "id": 291,
+  "en": "breadwinner",
+  "ja": "一家の稼ぎ手"
+ },
+ {
+  "id": 292,
+  "en": "bubble economy",
+  "ja": "バブル経済"
+ },
+ {
+  "id": 293,
+  "en": "bureaucracy",
+  "ja": "官僚機構 官僚制度 官僚"
+ },
+ {
+  "id": 294,
+  "en": "business cycle",
+  "ja": "景気循環"
+ },
+ {
+  "id": 295,
+  "en": "centralization of capital",
+  "ja": "資本の集中"
+ },
+ {
+  "id": 296,
+  "en": "centralized management",
+  "ja": "中央集権的管理"
+ },
+ {
+  "id": 297,
+  "en": "chief executive officer",
+  "ja": "最高経営責任者 CEO"
+ },
+ {
+  "id": 298,
+  "en": "command economy",
+  "ja": "計画経済(c)"
+ },
+ {
+  "id": 299,
+  "en": "commodity prices",
+  "ja": "商品価格 物価"
+ },
+ {
+  "id": 300,
+  "en": "competition",
+  "ja": "競争"
+ },
+ {
+  "id": 301,
+  "en": "consume energy",
+  "ja": "エネルギーを消費する"
+ },
+ {
+  "id": 302,
+  "en": "consumer",
+  "ja": "消費者"
+ },
+ {
+  "id": 303,
+  "en": "consumerism",
+  "ja": "消費者中心主義 消費者保護"
+ },
+ {
+  "id": 304,
+  "en": "consumption tax",
+  "ja": "消費税"
+ },
+ {
+  "id": 305,
+  "en": "corporate governance",
+  "ja": "企業統治"
+ },
+ {
+  "id": 306,
+  "en": "craft union",
+  "ja": "職業別組合 職能組合"
+ },
+ {
+  "id": 307,
+  "en": "creative destruction",
+  "ja": "創造的破壊"
+ },
+ {
+  "id": 308,
+  "en": "currency",
+  "ja": "通貨"
+ },
+ {
+  "id": 309,
+  "en": "decentralization of management",
+  "ja": "経営の分散化"
+ },
+ {
+  "id": 310,
+  "en": "decentralized decision making",
+  "ja": "分権的意思決定"
+ },
+ {
+  "id": 311,
+  "en": "deficit-covering bonds",
+  "ja": "赤字国債"
+ },
+ {
+  "id": 312,
+  "en": "deflation",
+  "ja": "デフレ"
+ },
+ {
+  "id": 313,
+  "en": "demand",
+  "ja": "需要"
+ },
+ {
+  "id": 314,
+  "en": "depression",
+  "ja": "不況 不景気"
+ },
+ {
+  "id": 315,
+  "en": "deregulate the airline industry",
+  "ja": "航空産業を自由化する"
+ },
+ {
+  "id": 316,
+  "en": "deregulation",
+  "ja": "規制撤廃 自由化"
+ },
+ {
+  "id": 317,
+  "en": "development costs",
+  "ja": "開発費用"
+ },
+ {
+  "id": 318,
+  "en": "direct tax",
+  "ja": "直接税"
+ },
+ {
+  "id": 319,
+  "en": "discount rate",
+  "ja": "公定歩合"
+ },
+ {
+  "id": 320,
+  "en": "downsize a company",
+  "ja": "会社をスリム化する"
+ },
+ {
+  "id": 321,
+  "en": "economic",
+  "ja": "経済の 経済学上の"
+ },
+ {
+  "id": 322,
+  "en": "economic incentive",
+  "ja": "経済的誘因"
+ },
+ {
+  "id": 323,
+  "en": "economical cars",
+  "ja": "経済的な 低燃費の車"
+ },
+ {
+  "id": 324,
+  "en": "economics",
+  "ja": "経済学"
+ },
+ {
+  "id": 325,
+  "en": "economies of scale",
+  "ja": "規模の経済"
+ },
+ {
+  "id": 326,
+  "en": "efficiency",
+  "ja": "効率性"
+ },
+ {
+  "id": 327,
+  "en": "efficient production",
+  "ja": "効率的な生産"
+ },
+ {
+  "id": 328,
+  "en": "employment market",
+  "ja": "雇用市場(e)"
+ },
+ {
+  "id": 329,
+  "en": "enterprise union",
+  "ja": "企業別組合"
+ },
+ {
+  "id": 330,
+  "en": "entrepreneur",
+  "ja": "企業家"
+ },
+ {
+  "id": 331,
+  "en": "entrepreneurship",
+  "ja": "企業家精神"
+ },
+ {
+  "id": 332,
+  "en": "equality before God",
+  "ja": "神の前の平等"
+ },
+ {
+  "id": 333,
+  "en": "equality of opportunity",
+  "ja": "機会均等"
+ },
+ {
+  "id": 334,
+  "en": "equality of outcome",
+  "ja": "結果の平等"
+ },
+ {
+  "id": 335,
+  "en": "equilibrium",
+  "ja": "均衡"
+ },
+ {
+  "id": 336,
+  "en": "equal rights",
+  "ja": "平等な権利"
+ },
+ {
+  "id": 337,
+  "en": "external economies",
+  "ja": "外部経済"
+ },
+ {
+  "id": 338,
+  "en": "external effects",
+  "ja": "外部効果"
+ },
+ {
+  "id": 339,
+  "en": "external diseconomies",
+  "ja": "外部不経済"
+ },
+ {
+  "id": 340,
+  "en": "externality",
+  "ja": "外部性"
+ },
+ {
+  "id": 341,
+  "en": "famine",
+  "ja": "飢饉 飢え 欠乏"
+ },
+ {
+  "id": 342,
+  "en": "feudalism",
+  "ja": "封建制度 封建主義"
+ },
+ {
+  "id": 343,
+  "en": "fiscal deficit",
+  "ja": "財政赤字"
+ },
+ {
+  "id": 344,
+  "en": "foreign exchange",
+  "ja": "外国為替"
+ },
+ {
+  "id": 345,
+  "en": "free trade",
+  "ja": "自由貿易"
+ },
+ {
+  "id": 346,
+  "en": "free-market economy",
+  "ja": "自由市場経済"
+ },
+ {
+  "id": 347,
+  "en": "full employment",
+  "ja": "完全雇用"
+ },
+ {
+  "id": 348,
+  "en": "glass ceiling",
+  "ja": "ガラスの天井"
+ },
+ {
+  "id": 349,
+  "en": "growth stocks",
+  "ja": "成長株"
+ },
+ {
+  "id": 350,
+  "en": "hierarchical structure",
+  "ja": "階層構造"
+ },
+ {
+  "id": 351,
+  "en": "hierarchy",
+  "ja": "ピラミッド型の階層性、上下関係"
+ },
+ {
+  "id": 352,
+  "en": "household budget",
+  "ja": "家計"
+ },
+ {
+  "id": 353,
+  "en": "human resources",
+  "ja": "人的資源"
+ },
+ {
+  "id": 354,
+  "en": "hunting-gathering society",
+  "ja": "狩猟採集社会"
+ },
+ {
+  "id": 355,
+  "en": "imperfect competition",
+  "ja": "不完全競争"
+ },
+ {
+  "id": 356,
+  "en": "income tax",
+  "ja": "所得税"
+ },
+ {
+  "id": 357,
+  "en": "indirect tax",
+  "ja": "間接税"
+ },
+ {
+  "id": 358,
+  "en": "information age",
+  "ja": "情報化時代"
+ },
+ {
+  "id": 359,
+  "en": "inherit property",
+  "ja": "財産を相続する"
+ },
+ {
+  "id": 360,
+  "en": "inheritance tax",
+  "ja": "相続税"
+ },
+ {
+  "id": 361,
+  "en": "insider trading",
+  "ja": "インサイダー取引 内部取引"
+ },
+ {
+  "id": 362,
+  "en": "international trade",
+  "ja": "国際貿易"
+ },
+ {
+  "id": 363,
+  "en": "involuntary unemployment",
+  "ja": "非自発的失業"
+ },
+ {
+  "id": 364,
+  "en": "job market",
+  "ja": "雇用市場(j)"
+ },
+ {
+  "id": 365,
+  "en": "jobless rate",
+  "ja": "失業率(ｊ)"
+ },
+ {
+  "id": 366,
+  "en": "knowledge industry",
+  "ja": "知識産業"
+ },
+ {
+  "id": 367,
+  "en": "labor force",
+  "ja": "労働力"
+ },
+ {
+  "id": 368,
+  "en": "labor union",
+  "ja": "労働組合"
+ },
+ {
+  "id": 369,
+  "en": "laissez-faire",
+  "ja": "自由放任主義"
+ },
+ {
+  "id": 370,
+  "en": "law of diminishing marginal utility",
+  "ja": "限界効用逓減の法則"
+ },
+ {
+  "id": 371,
+  "en": "lay off",
+  "ja": "を一時解雇する"
+ },
+ {
+  "id": 372,
+  "en": "lifetime employment system",
+  "ja": "終身雇用制"
+ },
+ {
+  "id": 373,
+  "en": "listed stocks",
+  "ja": "上場株"
+ },
+ {
+  "id": 374,
+  "en": "live on a pension",
+  "ja": "年金で生活する"
+ },
+ {
+  "id": 375,
+  "en": "living standard",
+  "ja": "生活水準"
+ },
+ {
+  "id": 376,
+  "en": "macroeconomics",
+  "ja": "マクロ経済学"
+ },
+ {
+  "id": 377,
+  "en": "margin",
+  "ja": "限界 縁 余白"
+ },
+ {
+  "id": 378,
+  "en": "marginal",
+  "ja": "限界の 縁の 辺境の"
+ },
+ {
+  "id": 379,
+  "en": "marginal benefit",
+  "ja": "限界効用(b)"
+ },
+ {
+  "id": 380,
+  "en": "marginal costs",
+  "ja": "限界費用"
+ },
+ {
+  "id": 381,
+  "en": "marginal utility",
+  "ja": "限界効用(u)"
+ },
+ {
+  "id": 382,
+  "en": "market failure",
+  "ja": "市場の失敗"
+ },
+ {
+  "id": 383,
+  "en": "merger and acquisition",
+  "ja": "M＆A 合併吸収"
+ },
+ {
+  "id": 384,
+  "en": "merit system",
+  "ja": "能力主義 実力主義"
+ },
+ {
+  "id": 385,
+  "en": "microeconomics",
+  "ja": "ミクロ経済学"
+ },
+ {
+  "id": 386,
+  "en": "minimum wage",
+  "ja": "最低限の賃金"
+ },
+ {
+  "id": 387,
+  "en": "mixed economy",
+  "ja": "混合経済"
+ },
+ {
+  "id": 388,
+  "en": "monetary policy",
+  "ja": "金融政策"
+ },
+ {
+  "id": 389,
+  "en": "monopoly",
+  "ja": "独占"
+ },
+ {
+  "id": 390,
+  "en": "off-the-job training",
+  "ja": "職場外教育訓練"
+ },
+ {
+  "id": 391,
+  "en": "office personnel",
+  "ja": "事務職員"
+ },
+ {
+  "id": 392,
+  "en": "oligopoly",
+  "ja": "寡占 少数独占"
+ },
+ {
+  "id": 393,
+  "en": "on-the-job training",
+  "ja": "職場教育訓練"
+ },
+ {
+  "id": 394,
+  "en": "opportunity costs",
+  "ja": "機会費用"
+ },
+ {
+  "id": 395,
+  "en": "perfect competition",
+  "ja": "完全競争"
+ },
+ {
+  "id": 396,
+  "en": "personnel costs",
+  "ja": "人件費"
+ },
+ {
+  "id": 397,
+  "en": "planned economy",
+  "ja": "計画経済(p)"
+ },
+ {
+  "id": 398,
+  "en": "post-industrial society",
+  "ja": "脱工業化社会"
+ },
+ {
+  "id": 399,
+  "en": "recession",
+  "ja": "不景気 景気後退"
+ },
+ {
+  "id": 400,
+  "en": "recruit capable teachers",
+  "ja": "有能な先生を新規採用する"
+ },
+ {
+  "id": 401,
+  "en": "recruitment",
+  "ja": "新規採用 新規募集"
+ },
+ {
+  "id": 402,
+  "en": "regulate economic activities",
+  "ja": "経済活動を規制する"
+ },
+ {
+  "id": 403,
+  "en": "regulation",
+  "ja": "既成 規則 法規"
+ },
+ {
+  "id": 404,
+  "en": "retire early",
+  "ja": "早期に退職する"
+ },
+ {
+  "id": 405,
+  "en": "retirement age",
+  "ja": "退職年齢"
+ },
+ {
+  "id": 406,
+  "en": "revenue from the tax",
+  "ja": "税からの歳入"
+ },
+ {
+  "id": 407,
+  "en": "secure",
+  "ja": "安全な 確かな"
+ },
+ {
+  "id": 408,
+  "en": "seniority system",
+  "ja": "年功序列制度"
+ },
+ {
+  "id": 409,
+  "en": "shift work",
+  "ja": "交替勤務"
+ },
+ {
+  "id": 410,
+  "en": "slump",
+  "ja": "景気沈滞 景気後退"
+ },
+ {
+  "id": 411,
+  "en": "social security",
+  "ja": "社会保障"
+ },
+ {
+  "id": 412,
+  "en": "stabilization",
+  "ja": "安定化 安定させること"
+ },
+ {
+  "id": 413,
+  "en": "stabilize the economy",
+  "ja": "経済を安定させる"
+ },
+ {
+  "id": 414,
+  "en": "stagflation",
+  "ja": "スタグフレーション 不況下の暴騰"
+ },
+ {
+  "id": 415,
+  "en": "stakeholder",
+  "ja": "利害関係者"
+ },
+ {
+  "id": 416,
+  "en": "starvation",
+  "ja": "飢餓 窮乏"
+ },
+ {
+  "id": 417,
+  "en": "starve",
+  "ja": "餓死する 飢えに苦しむ"
+ },
+ {
+  "id": 418,
+  "en": "streamline management",
+  "ja": "経営を簡素化する"
+ },
+ {
+  "id": 419,
+  "en": "supply",
+  "ja": "供給"
+ },
+ {
+  "id": 420,
+  "en": "sustain life",
+  "ja": "生命を維持する"
+ },
+ {
+  "id": 421,
+  "en": "sustainable development",
+  "ja": "持続可能な開発"
+ },
+ {
+  "id": 422,
+  "en": "tariff",
+  "ja": "関税"
+ },
+ {
+  "id": 423,
+  "en": "the Lost Decade",
+  "ja": "失われた十年"
+ },
+ {
+  "id": 424,
+  "en": "the feudal system",
+  "ja": "封建制度"
+ },
+ {
+  "id": 425,
+  "en": "tradeoff",
+  "ja": "トレードオフ"
+ },
+ {
+  "id": 426,
+  "en": "unemployment rate",
+  "ja": "失業率(u)"
+ },
+ {
+  "id": 427,
+  "en": "utility",
+  "ja": "効用"
+ },
+ {
+  "id": 428,
+  "en": "utilize the limited resources",
+  "ja": "限られた資源を活用する"
+ },
+ {
+  "id": 429,
+  "en": "value-added tax",
+  "ja": "付加価値税 VAT"
+ },
+ {
+  "id": 430,
+  "en": "voluntary unemployment",
+  "ja": "自発的失業"
+ },
+ {
+  "id": 431,
+  "en": "want",
+  "ja": "欲求"
+ },
+ {
+  "id": 432,
+  "en": "welfare state",
+  "ja": "福祉国家"
+ },
+ {
+  "id": 433,
+  "en": "window dressing",
+  "ja": "粉飾決算"
+ },
+ {
+  "id": 434,
+  "en": "working-age people",
+  "ja": "労働年齢の人々"
+ },
+ {
+  "id": 435,
+  "en": "Crusades",
+  "ja": "十字軍"
+ },
+ {
+  "id": 436,
+  "en": "Muslim extremists",
+  "ja": "イスラム過激派"
+ },
+ {
+  "id": 437,
+  "en": "abduct",
+  "ja": "誘拐する"
+ },
+ {
+  "id": 438,
+  "en": "abduction",
+  "ja": "誘拐"
+ },
+ {
+  "id": 439,
+  "en": "abolitionist",
+  "ja": "死刑廃止主義者"
+ },
+ {
+  "id": 440,
+  "en": "anarchist",
+  "ja": "無政府主義者"
+ },
+ {
+  "id": 441,
+  "en": "appeal",
+  "ja": "上訴"
+ },
+ {
+  "id": 442,
+  "en": "causality",
+  "ja": "因果関係"
+ },
+ {
+  "id": 443,
+  "en": "compassion",
+  "ja": "哀れみ、深い同情"
+ },
+ {
+  "id": 444,
+  "en": "deter",
+  "ja": "抑止する"
+ },
+ {
+  "id": 445,
+  "en": "deterrent",
+  "ja": "抑止力"
+ },
+ {
+  "id": 446,
+  "en": "dialectic",
+  "ja": "弁証法"
+ },
+ {
+  "id": 447,
+  "en": "due process of law",
+  "ja": "法の適正手続き"
+ },
+ {
+  "id": 448,
+  "en": "epistemology",
+  "ja": "認識論"
+ },
+ {
+  "id": 449,
+  "en": "fine",
+  "ja": "罰金"
+ },
+ {
+  "id": 450,
+  "en": "freedom fighter",
+  "ja": "自由の戦士"
+ },
+ {
+  "id": 451,
+  "en": "ideology",
+  "ja": "イデオロギー"
+ },
+ {
+  "id": 452,
+  "en": "infer",
+  "ja": "推論する"
+ },
+ {
+  "id": 453,
+  "en": "inference",
+  "ja": "推論"
+ },
+ {
+  "id": 454,
+  "en": "innocent civilians",
+  "ja": "無辜の一般市民"
+ },
+ {
+  "id": 455,
+  "en": "intuition",
+  "ja": "直観"
+ },
+ {
+  "id": 456,
+  "en": "juror",
+  "ja": "陪審員"
+ },
+ {
+  "id": 457,
+  "en": "jury",
+  "ja": "陪審"
+ },
+ {
+  "id": 458,
+  "en": "legitimate self-defense",
+  "ja": "正当防衛"
+ },
+ {
+  "id": 459,
+  "en": "metaphysics",
+  "ja": "形而上学"
+ },
+ {
+  "id": 460,
+  "en": "misjudgement",
+  "ja": "誤審、誤判"
+ },
+ {
+  "id": 461,
+  "en": "ontology",
+  "ja": "存在論"
+ },
+ {
+  "id": 462,
+  "en": "oppression",
+  "ja": "圧制、抑圧"
+ },
+ {
+  "id": 463,
+  "en": "oppressive",
+  "ja": "圧政的な"
+ },
+ {
+  "id": 464,
+  "en": "outlaw",
+  "ja": "非合法化する、禁止する"
+ },
+ {
+  "id": 465,
+  "en": "overthrow",
+  "ja": "転覆させる"
+ },
+ {
+  "id": 466,
+  "en": "paradox",
+  "ja": "逆説"
+ },
+ {
+  "id": 467,
+  "en": "phenomenology",
+  "ja": "現象学"
+ },
+ {
+  "id": 468,
+  "en": "postmodernism",
+  "ja": "ポストモダニズム"
+ },
+ {
+  "id": 469,
+  "en": "presumption of innocence",
+  "ja": "無罪推定"
+ },
+ {
+  "id": 470,
+  "en": "punishment",
+  "ja": "刑罰"
+ },
+ {
+  "id": 471,
+  "en": "radical left",
+  "ja": "急進的左翼"
+ },
+ {
+  "id": 472,
+  "en": "rationality",
+  "ja": "合理性"
+ },
+ {
+  "id": 473,
+  "en": "repent",
+  "ja": "悔いる"
+ },
+ {
+  "id": 474,
+  "en": "repentance",
+  "ja": "改悛、悔いること"
+ },
+ {
+  "id": 475,
+  "en": "strategy",
+  "ja": "戦術"
+ },
+ {
+  "id": 476,
+  "en": "target",
+  "ja": "狙われる人"
+ },
+ {
+  "id": 477,
+  "en": "verdict",
+  "ja": "評決"
+ },
+ {
+  "id": 478,
+  "en": "wipe out",
+  "ja": "撤廃する、一掃する"
+ },
+ {
+  "id": 479,
+  "en": "well-educated",
+  "ja": "立派な教育を受けた"
+ },
+ {
+  "id": 480,
+  "en": "upper-class",
+  "ja": "上流階級(の)"
+ },
+ {
+  "id": 481,
+  "en": "third-world",
+  "ja": "第三世界(の)"
+ },
+ {
+  "id": 482,
+  "en": "the Middle East",
+  "ja": "中東の"
+ },
+ {
+  "id": 483,
+  "en": "terrorist",
+  "ja": "テロリスト"
+ },
+ {
+  "id": 484,
+  "en": "terrorism",
+  "ja": "テロリズム"
+ },
+ {
+  "id": 485,
+  "en": "suspect",
+  "ja": "～と思う、疑う"
+ },
+ {
+  "id": 486,
+  "en": "military",
+  "ja": "軍事的な、軍隊の"
+ },
+ {
+  "id": 487,
+  "en": "middle-class",
+  "ja": "中流階級(の)"
+ },
+ {
+  "id": 488,
+  "en": "lose face",
+  "ja": "面子を失う"
+ },
+ {
+  "id": 489,
+  "en": "humiliation",
+  "ja": "屈辱"
+ },
+ {
+  "id": 490,
+  "en": "humiliating",
+  "ja": "屈辱的な"
+ },
+ {
+  "id": 491,
+  "en": "headquarters",
+  "ja": "本部"
+ },
+ {
+  "id": 492,
+  "en": "feel bitter about",
+  "ja": "～を苦々しく思う"
+ },
+ {
+  "id": 493,
+  "en": "failed",
+  "ja": "破綻した、機能不全の"
+ },
+ {
+  "id": 494,
+  "en": "factor",
+  "ja": "要因"
+ },
+ {
+  "id": 495,
+  "en": "effective",
+  "ja": "効果的な"
+ },
+ {
+  "id": 496,
+  "en": "direct A against B",
+  "ja": "AをBに向ける"
+ },
+ {
+  "id": 497,
+  "en": "aid",
+  "ja": "援助"
+ }
+]

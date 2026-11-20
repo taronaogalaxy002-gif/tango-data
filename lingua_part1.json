@@ -1,0 +1,1287 @@
+[
+ {
+  "id": 1,
+  "en": "a combination of A and B",
+  "ja": "AとBの組み合わせ"
+ },
+ {
+  "id": 2,
+  "en": "gain access to A",
+  "ja": "Aに接近する"
+ },
+ {
+  "id": 3,
+  "en": "incorporate A into B",
+  "ja": "AをBに取り入れる"
+ },
+ {
+  "id": 4,
+  "en": "prefer A to B",
+  "ja": "BよりもAの方を好む"
+ },
+ {
+  "id": 5,
+  "en": "embrace an idea",
+  "ja": "ある考えを信奉する"
+ },
+ {
+  "id": 6,
+  "en": "approve of the decision",
+  "ja": "その決定を認める"
+ },
+ {
+  "id": 7,
+  "en": "a severe drought",
+  "ja": "ひどい干ばつ"
+ },
+ {
+  "id": 8,
+  "en": "unnecessary complexity",
+  "ja": "不必要な複雑さ"
+ },
+ {
+  "id": 9,
+  "en": "hatred toward injustice",
+  "ja": "不正への憎しみ"
+ },
+ {
+  "id": 10,
+  "en": "operate world wide",
+  "ja": "世界規模で作用する"
+ },
+ {
+  "id": 11,
+  "en": "in effect",
+  "ja": "事実上"
+ },
+ {
+  "id": 12,
+  "en": "affect one's health",
+  "ja": "人の健康に影響を及ぼす"
+ },
+ {
+  "id": 13,
+  "en": "reject one's offer",
+  "ja": "人の申し出を拒絶する"
+ },
+ {
+  "id": 14,
+  "en": "a racial minority",
+  "ja": "人種的少数派"
+ },
+ {
+  "id": 15,
+  "en": "collective responsibility",
+  "ja": "共同責任"
+ },
+ {
+  "id": 16,
+  "en": "believe in communism",
+  "ja": "共産主義を信じる"
+ },
+ {
+  "id": 17,
+  "en": "the Cold War",
+  "ja": "冷戦"
+ },
+ {
+  "id": 18,
+  "en": "a homogeneous group",
+  "ja": "同質の集団"
+ },
+ {
+  "id": 19,
+  "en": "approach a problem",
+  "ja": "問題に取り組む"
+ },
+ {
+  "id": 20,
+  "en": "an international border",
+  "ja": "国境"
+ },
+ {
+  "id": 21,
+  "en": "a rise in nationalism",
+  "ja": "国家主義の台頭"
+ },
+ {
+  "id": 22,
+  "en": "a local community",
+  "ja": "地域社会"
+ },
+ {
+  "id": 23,
+  "en": "cross a boundary",
+  "ja": "境界を越える"
+ },
+ {
+  "id": 24,
+  "en": "a positive feature",
+  "ja": "好ましい特徴"
+ },
+ {
+  "id": 25,
+  "en": "an enormous building",
+  "ja": "巨大なビル"
+ },
+ {
+  "id": 26,
+  "en": "a market analyst",
+  "ja": "市場分析家"
+ },
+ {
+  "id": 27,
+  "en": "fight against imperialism",
+  "ja": "帝国主義と戦う"
+ },
+ {
+  "id": 28,
+  "en": "the function of the heart",
+  "ja": "心臓の機能"
+ },
+ {
+  "id": 29,
+  "en": "inevitably affect the future",
+  "ja": "必ず将来に影響する"
+ },
+ {
+  "id": 30,
+  "en": "a diversity of opinion",
+  "ja": "意見の多様性、多様な意見"
+ },
+ {
+  "id": 31,
+  "en": "a war refugee",
+  "ja": "戦争難民"
+ },
+ {
+  "id": 32,
+  "en": "a modest demand",
+  "ja": "控えめな要求"
+ },
+ {
+  "id": 33,
+  "en": "political asylum",
+  "ja": "政治亡命"
+ },
+ {
+  "id": 34,
+  "en": "church doctrine",
+  "ja": "教会の教義"
+ },
+ {
+  "id": 35,
+  "en": "cultural transformation",
+  "ja": "文化の変質"
+ },
+ {
+  "id": 36,
+  "en": "define new words",
+  "ja": "新しい言葉を定義する"
+ },
+ {
+  "id": 37,
+  "en": "a clear distinction",
+  "ja": "明瞭な違い"
+ },
+ {
+  "id": 38,
+  "en": "a gloomy perspective",
+  "ja": "暗い見通し"
+ },
+ {
+  "id": 39,
+  "en": "use violence",
+  "ja": "暴力を働く"
+ },
+ {
+  "id": 40,
+  "en": "a harmful consequence",
+  "ja": "有害な結果"
+ },
+ {
+  "id": 41,
+  "en": "go to extremes",
+  "ja": "極端に走る"
+ },
+ {
+  "id": 42,
+  "en": "ethnic composition",
+  "ja": "民族構成"
+ },
+ {
+  "id": 43,
+  "en": "national identity",
+  "ja": "民族的同一性"
+ },
+ {
+  "id": 44,
+  "en": "ethnic dances",
+  "ja": "民族舞踊"
+ },
+ {
+  "id": 45,
+  "en": "old-fashioned clothes",
+  "ja": "流行おくれの服"
+ },
+ {
+  "id": 46,
+  "en": "talk enthusiastically",
+  "ja": "熱心にかたる"
+ },
+ {
+  "id": 47,
+  "en": "bombs explode",
+  "ja": "爆弾が爆発する"
+ },
+ {
+  "id": 48,
+  "en": "the perception of the situation",
+  "ja": "状況の認識"
+ },
+ {
+  "id": 49,
+  "en": "a true cosmopolitan",
+  "ja": "真の国際人"
+ },
+ {
+  "id": 50,
+  "en": "immigration policy",
+  "ja": "移民政策"
+ },
+ {
+  "id": 51,
+  "en": "an area of conflict",
+  "ja": "紛争地域"
+ },
+ {
+  "id": 52,
+  "en": "a lack of continuity",
+  "ja": "継続性の欠如"
+ },
+ {
+  "id": 53,
+  "en": "justify one's actions",
+  "ja": "自己の行動を正当化する"
+ },
+ {
+  "id": 54,
+  "en": "freedom of expression",
+  "ja": "表現の自由"
+ },
+ {
+  "id": 55,
+  "en": "a delayed reaction",
+  "ja": "遅延反応"
+ },
+ {
+  "id": 56,
+  "en": "radical ideas on education",
+  "ja": "過激な教育観"
+ },
+ {
+  "id": 57,
+  "en": "a steel frame work",
+  "ja": "鋼鉄製の枠組み"
+ },
+ {
+  "id": 58,
+  "en": "a territorial dispute",
+  "ja": "領土紛争"
+ },
+ {
+  "id": 59,
+  "en": "erase the blackboard",
+  "ja": "黒板を消す"
+ },
+ {
+  "id": 60,
+  "en": "violate human rights",
+  "ja": "人権を侵害する"
+ },
+ {
+  "id": 61,
+  "en": "use a cellphone",
+  "ja": "携帯電話を使用する"
+ },
+ {
+  "id": 62,
+  "en": "trap a stray dog",
+  "ja": "野良犬を罠で捕獲する"
+ },
+ {
+  "id": 63,
+  "en": "trace A to B",
+  "ja": "AをBまでたどる"
+ },
+ {
+  "id": 64,
+  "en": "the justice system",
+  "ja": "司法制度"
+ },
+ {
+  "id": 65,
+  "en": "the baby boomer",
+  "ja": "ベビーブーム世代"
+ },
+ {
+  "id": 66,
+  "en": "surpass all expectations",
+  "ja": "全ての期待を上回る"
+ },
+ {
+  "id": 67,
+  "en": "suffer severe damage",
+  "ja": "ひどい損傷を受ける"
+ },
+ {
+  "id": 68,
+  "en": "submit to intimidation",
+  "ja": "脅迫に屈する"
+ },
+ {
+  "id": 69,
+  "en": "subject a person to torture",
+  "ja": "人を拷問に合わせる"
+ },
+ {
+  "id": 70,
+  "en": "stress-related",
+  "ja": "ストレスに関係のある"
+ },
+ {
+  "id": 71,
+  "en": "staff turnover",
+  "ja": "従業員の離職率"
+ },
+ {
+  "id": 72,
+  "en": "speculate on the outcome",
+  "ja": "結果を推測する"
+ },
+ {
+  "id": 73,
+  "en": "social commentator",
+  "ja": "社会評論家"
+ },
+ {
+  "id": 74,
+  "en": "severe pain",
+  "ja": "ひどいいたみ"
+ },
+ {
+  "id": 75,
+  "en": "selective pesticide",
+  "ja": "選択的殺虫剤"
+ },
+ {
+  "id": 76,
+  "en": "secondary education",
+  "ja": "中等教育"
+ },
+ {
+  "id": 77,
+  "en": "rehire a retiree",
+  "ja": "退職者を再雇用する"
+ },
+ {
+  "id": 78,
+  "en": "puzzle a person",
+  "ja": "人を困惑させる"
+ },
+ {
+  "id": 79,
+  "en": "productive workers",
+  "ja": "生産力を有する働き手"
+ },
+ {
+  "id": 80,
+  "en": "primary school",
+  "ja": "小学校、初等学校"
+ },
+ {
+  "id": 81,
+  "en": "prejudice in the workplace",
+  "ja": "職場での偏見"
+ },
+ {
+  "id": 82,
+  "en": "potentially available",
+  "ja": "潜在的に入手可能な"
+ },
+ {
+  "id": 83,
+  "en": "look for a solution",
+  "ja": "解決法を探す"
+ },
+ {
+  "id": 84,
+  "en": "life imprisonment",
+  "ja": "終身刑"
+ },
+ {
+  "id": 85,
+  "en": "involve some risk",
+  "ja": "多少のリスクを伴う"
+ },
+ {
+  "id": 86,
+  "en": "interpersonal relationships",
+  "ja": "対人関係"
+ },
+ {
+  "id": 87,
+  "en": "interaction with outsiders",
+  "ja": "外部の人間との相互作用"
+ },
+ {
+  "id": 88,
+  "en": "ineffective medicine",
+  "ja": "効かない薬"
+ },
+ {
+  "id": 89,
+  "en": "in response to",
+  "ja": "に応じて、にこたえて"
+ },
+ {
+  "id": 90,
+  "en": "in addition",
+  "ja": "加えて"
+ },
+ {
+  "id": 91,
+  "en": "humane treatment",
+  "ja": "人道的な扱い"
+ },
+ {
+  "id": 92,
+  "en": "hinder mental growth",
+  "ja": "精神的成長を妨げる"
+ },
+ {
+  "id": 93,
+  "en": "guess from the context",
+  "ja": "文脈から推測する"
+ },
+ {
+  "id": 94,
+  "en": "go to prison",
+  "ja": "刑務所に入る"
+ },
+ {
+  "id": 95,
+  "en": "fringe benefits",
+  "ja": "付加給付"
+ },
+ {
+  "id": 96,
+  "en": "enjoy the scenery",
+  "ja": "景色を楽しむ"
+ },
+ {
+  "id": 97,
+  "en": "emotional conflict",
+  "ja": "情緒的葛藤、感情的対立"
+ },
+ {
+  "id": 98,
+  "en": "domestic violence",
+  "ja": "家庭内暴力"
+ },
+ {
+  "id": 99,
+  "en": "demonstrate that",
+  "ja": "ということを証明する"
+ },
+ {
+  "id": 100,
+  "en": "deficient in iron",
+  "ja": "鉄分が不足した"
+ },
+ {
+  "id": 101,
+  "en": "deeply frustrated",
+  "ja": "ひどく失望して"
+ },
+ {
+  "id": 102,
+  "en": "correction of an error",
+  "ja": "誤りの修正"
+ },
+ {
+  "id": 103,
+  "en": "commit suicide",
+  "ja": "自殺をする"
+ },
+ {
+  "id": 104,
+  "en": "commit a crime",
+  "ja": "罪を犯す"
+ },
+ {
+  "id": 105,
+  "en": "coincide with",
+  "ja": "と同時におこる"
+ },
+ {
+  "id": 106,
+  "en": "climax in a drama",
+  "ja": "ドラマが最高潮に達する"
+ },
+ {
+  "id": 107,
+  "en": "class warfare",
+  "ja": "階級闘争"
+ },
+ {
+  "id": 108,
+  "en": "circumstantial evidence",
+  "ja": "状況証拠"
+ },
+ {
+  "id": 109,
+  "en": "cellular phone",
+  "ja": "携帯電話(二語で)"
+ },
+ {
+  "id": 110,
+  "en": "capital punishment",
+  "ja": "死刑"
+ },
+ {
+  "id": 111,
+  "en": "boost morale",
+  "ja": "士気を高める"
+ },
+ {
+  "id": 112,
+  "en": "bear the pain",
+  "ja": "苦痛に耐える"
+ },
+ {
+  "id": 113,
+  "en": "automatically stop",
+  "ja": "自動的に止まる"
+ },
+ {
+  "id": 114,
+  "en": "attack a person verbally",
+  "ja": "人を言葉で攻撃する"
+ },
+ {
+  "id": 115,
+  "en": "arouse interest in others",
+  "ja": "他人に興味を引き起こす"
+ },
+ {
+  "id": 116,
+  "en": "annoy others",
+  "ja": "他人に迷惑をかける"
+ },
+ {
+  "id": 117,
+  "en": "an impartial observer",
+  "ja": "公平な観測者"
+ },
+ {
+  "id": 118,
+  "en": "an excess of appetite",
+  "ja": "食欲の過剰"
+ },
+ {
+  "id": 119,
+  "en": "an antisocial group",
+  "ja": "反社会的集団"
+ },
+ {
+  "id": 120,
+  "en": "an alien from outer space",
+  "ja": "宇宙からの異星人"
+ },
+ {
+  "id": 121,
+  "en": "accelerate the pace of reform",
+  "ja": "改革の歩みを加速する"
+ },
+ {
+  "id": 122,
+  "en": "abuse animals",
+  "ja": "動物を虐待する"
+ },
+ {
+  "id": 123,
+  "en": "abandon one's dream",
+  "ja": "夢を捨てる"
+ },
+ {
+  "id": 124,
+  "en": "a war criminal",
+  "ja": "戦争犯罪人"
+ },
+ {
+  "id": 125,
+  "en": "a victim of bullying",
+  "ja": "いじめの犠牲者"
+ },
+ {
+  "id": 126,
+  "en": "a training scheme",
+  "ja": "訓練計画"
+ },
+ {
+  "id": 127,
+  "en": "a solid foundation",
+  "ja": "堅固な基礎"
+ },
+ {
+  "id": 128,
+  "en": "a shallow mind",
+  "ja": "薄っぺらな考え、心"
+ },
+ {
+  "id": 129,
+  "en": "a safe refuge",
+  "ja": "安全な避難所"
+ },
+ {
+  "id": 130,
+  "en": "a retired general",
+  "ja": "退役将軍"
+ },
+ {
+  "id": 131,
+  "en": "a professional rescuer",
+  "ja": "プロの救助隊員"
+ },
+ {
+  "id": 132,
+  "en": "a physically demanding job",
+  "ja": "肉体的にきつい仕事"
+ },
+ {
+  "id": 133,
+  "en": "a minor adjustment",
+  "ja": "微調整"
+ },
+ {
+  "id": 134,
+  "en": "a juvenile delinquent",
+  "ja": "青少年非行者"
+ },
+ {
+  "id": 135,
+  "en": "a huge building",
+  "ja": "巨大な建物"
+ },
+ {
+  "id": 136,
+  "en": "a first-rank statesman",
+  "ja": "一流の政治家"
+ },
+ {
+  "id": 137,
+  "en": "a budget cutback",
+  "ja": "予算削減"
+ },
+ {
+  "id": 138,
+  "en": "deprive A of B",
+  "ja": "AからBを奪う"
+ },
+ {
+  "id": 139,
+  "en": "distinguish between A and B",
+  "ja": "AとBを区別する"
+ },
+ {
+  "id": 140,
+  "en": "the application of A to B",
+  "ja": "AのBへの応用"
+ },
+ {
+  "id": 141,
+  "en": "implant A into B",
+  "ja": "AをBに埋め込む"
+ },
+ {
+  "id": 142,
+  "en": "insert A in B",
+  "ja": "BにAを差し込む"
+ },
+ {
+  "id": 143,
+  "en": "contract cancer",
+  "ja": "がんにかかる"
+ },
+ {
+  "id": 144,
+  "en": "the early detection of cancer",
+  "ja": "がんの早期発見"
+ },
+ {
+  "id": 145,
+  "en": "a cancer researcher",
+  "ja": "がんの研究員"
+ },
+ {
+  "id": 146,
+  "en": "a slight defect",
+  "ja": "ちょっとした欠陥"
+ },
+ {
+  "id": 147,
+  "en": "resent",
+  "ja": "に憤る、憤慨する"
+ },
+ {
+  "id": 148,
+  "en": "proof",
+  "ja": "に耐える"
+ },
+ {
+  "id": 149,
+  "en": "deprivation",
+  "ja": "はく奪、奪取"
+ },
+ {
+  "id": 150,
+  "en": "restrict",
+  "ja": "を制限する、制約する"
+ },
+ {
+  "id": 151,
+  "en": "deny",
+  "ja": "を否定する、否認する"
+ },
+ {
+  "id": 152,
+  "en": "concern",
+  "ja": "を心配させる、と関係する、関与する"
+ },
+ {
+  "id": 153,
+  "en": "sterilize",
+  "ja": "を消毒する、を滅菌する"
+ },
+ {
+  "id": 154,
+  "en": "victimize",
+  "ja": "を犠牲にする、に被害を与える"
+ },
+ {
+  "id": 155,
+  "en": "announce",
+  "ja": "を発表する、を明らかにする"
+ },
+ {
+  "id": 156,
+  "en": "detect",
+  "ja": "を発見する、探知する"
+ },
+ {
+  "id": 157,
+  "en": "prove",
+  "ja": "を証明する、立証する"
+ },
+ {
+  "id": 158,
+  "en": "coordinate",
+  "ja": "を調整する"
+ },
+ {
+  "id": 159,
+  "en": "prevent",
+  "ja": "を防ぐ、防止する"
+ },
+ {
+  "id": 160,
+  "en": "eliminate",
+  "ja": "を除去する"
+ },
+ {
+  "id": 161,
+  "en": "allergic",
+  "ja": "アレルギー体質の"
+ },
+ {
+  "id": 162,
+  "en": "infection by a virus",
+  "ja": "ウイルスによる感染"
+ },
+ {
+  "id": 163,
+  "en": "AIDS pandemic",
+  "ja": "エイズの大流行"
+ },
+ {
+  "id": 164,
+  "en": "clone a human being",
+  "ja": "クローン人間をつくる"
+ },
+ {
+  "id": 165,
+  "en": "Bees collect pollen",
+  "ja": "ハチは花粉を集める"
+ },
+ {
+  "id": 166,
+  "en": "insufficient funds",
+  "ja": "不十分な資金"
+ },
+ {
+  "id": 167,
+  "en": "host",
+  "ja": "主人、ホスト 多数の"
+ },
+ {
+  "id": 168,
+  "en": "preventive measures",
+  "ja": "予防措置"
+ },
+ {
+  "id": 169,
+  "en": "delegation",
+  "ja": "代表団、派遣団"
+ },
+ {
+  "id": 170,
+  "en": "a benign smile",
+  "ja": "優しい微笑み"
+ },
+ {
+  "id": 171,
+  "en": "follow suit",
+  "ja": "先例に続く"
+ },
+ {
+  "id": 172,
+  "en": "a delegate from the party",
+  "ja": "党からの代表者"
+ },
+ {
+  "id": 173,
+  "en": "regenerate",
+  "ja": "再生する、復興する"
+ },
+ {
+  "id": 174,
+  "en": "an early embryo",
+  "ja": "初期胚"
+ },
+ {
+  "id": 175,
+  "en": "encouragement",
+  "ja": "助長、奨励、励まし"
+ },
+ {
+  "id": 176,
+  "en": "a trade union organizer",
+  "ja": "労働組合のまとめ役"
+ },
+ {
+  "id": 177,
+  "en": "animal quarantine",
+  "ja": "動物検疫"
+ },
+ {
+  "id": 178,
+  "en": "collaborate",
+  "ja": "協力する、共同する"
+ },
+ {
+  "id": 179,
+  "en": "face an opposition",
+  "ja": "反対に直面する"
+ },
+ {
+  "id": 180,
+  "en": "allergy",
+  "ja": "反感・嫌悪"
+ },
+ {
+  "id": 181,
+  "en": "enhance one's fame",
+  "ja": "名声を高める"
+ },
+ {
+  "id": 182,
+  "en": "the international initiative",
+  "ja": "国際的主導"
+ },
+ {
+  "id": 183,
+  "en": "undergo surgery",
+  "ja": "外科手術を受ける"
+ },
+ {
+  "id": 184,
+  "en": "a fat fee",
+  "ja": "多額の謝礼"
+ },
+ {
+  "id": 185,
+  "en": "a missing link",
+  "ja": "失われた環"
+ },
+ {
+  "id": 186,
+  "en": "a complete denial",
+  "ja": "完全な否定"
+ },
+ {
+  "id": 187,
+  "en": "a fruitful collaboration",
+  "ja": "実り豊かな協力"
+ },
+ {
+  "id": 188,
+  "en": "host a dinner",
+  "ja": "宴会を主宰する"
+ },
+ {
+  "id": 189,
+  "en": "concern about one's future",
+  "ja": "将来への不安"
+ },
+ {
+  "id": 190,
+  "en": "a promising young man",
+  "ja": "将来性のある若者"
+ },
+ {
+  "id": 191,
+  "en": "She is an identical twin",
+  "ja": "彼女は一卵性双生児です"
+ },
+ {
+  "id": 192,
+  "en": "concerned",
+  "ja": "心配そうな、懸念している"
+ },
+ {
+  "id": 193,
+  "en": "patience",
+  "ja": "忍耐、辛坊"
+ },
+ {
+  "id": 194,
+  "en": "apply",
+  "ja": "応用する、応募する"
+ },
+ {
+  "id": 195,
+  "en": "implant",
+  "ja": "思想などを教え込む、植え付ける"
+ },
+ {
+  "id": 196,
+  "en": "bad publicity",
+  "ja": "悪い評判"
+ },
+ {
+  "id": 197,
+  "en": "infectious",
+  "ja": "感染性の、伝染しやすい"
+ },
+ {
+  "id": 198,
+  "en": "benevolence",
+  "ja": "慈悲心、情け深さ"
+ },
+ {
+  "id": 199,
+  "en": "benevolent God",
+  "ja": "慈悲深い神"
+ },
+ {
+  "id": 200,
+  "en": "an opponent of war",
+  "ja": "戦争の反対者"
+ },
+ {
+  "id": 201,
+  "en": "perfect a letter",
+  "ja": "手紙を完成させる"
+ },
+ {
+  "id": 202,
+  "en": "antibiotics",
+  "ja": "抗生物質(a)一単語"
+ },
+ {
+  "id": 203,
+  "en": "antibiotic drugs",
+  "ja": "抗生物質(a)２単語"
+ },
+ {
+  "id": 204,
+  "en": "insertion",
+  "ja": "挿入、差し込み"
+ },
+ {
+  "id": 205,
+  "en": "sterilization",
+  "ja": "断種、不妊化、消毒、滅菌"
+ },
+ {
+  "id": 206,
+  "en": "a new strain of virus",
+  "ja": "新種のウイルス"
+ },
+ {
+  "id": 207,
+  "en": "a terminally-ill patient",
+  "ja": "末期患者"
+ },
+ {
+  "id": 208,
+  "en": "implantation",
+  "ja": "植え込むこと、移植、着床"
+ },
+ {
+  "id": 209,
+  "en": "fault",
+  "ja": "欠陥、欠点、過失"
+ },
+ {
+  "id": 210,
+  "en": "defective",
+  "ja": "欠陥のある"
+ },
+ {
+  "id": 211,
+  "en": "a faulty gene",
+  "ja": "欠陥のある遺伝子"
+ },
+ {
+  "id": 212,
+  "en": "a welcome applicant",
+  "ja": "歓迎すべき志願者"
+ },
+ {
+  "id": 213,
+  "en": "a formal announcement",
+  "ja": "正式な発表"
+ },
+ {
+  "id": 214,
+  "en": "extract a tooth",
+  "ja": "歯を引き抜く"
+ },
+ {
+  "id": 215,
+  "en": "a historic breakthrough",
+  "ja": "歴史的大躍進"
+ },
+ {
+  "id": 216,
+  "en": "a murder victim",
+  "ja": "殺人の被害者"
+ },
+ {
+  "id": 217,
+  "en": "a mother's womb",
+  "ja": "母親の子宮"
+ },
+ {
+  "id": 218,
+  "en": "a symptom of flu",
+  "ja": "流感の症状"
+ },
+ {
+  "id": 219,
+  "en": "A submarine can surface",
+  "ja": "潜水艦は浮上できる"
+ },
+ {
+  "id": 220,
+  "en": "organic soybeans",
+  "ja": "無農薬の大豆"
+ },
+ {
+  "id": 221,
+  "en": "cloning of a cow",
+  "ja": "牛のクローニング"
+ },
+ {
+  "id": 222,
+  "en": "sterilize a cat",
+  "ja": "猫に不妊手術を施す"
+ },
+ {
+  "id": 223,
+  "en": "sweet maize",
+  "ja": "甘いトウモロコシ"
+ },
+ {
+  "id": 224,
+  "en": "application",
+  "ja": "申し込み、出願"
+ },
+ {
+  "id": 225,
+  "en": "the elimination of disease",
+  "ja": "疾病の除去"
+ },
+ {
+  "id": 226,
+  "en": "regeneration of the skin",
+  "ja": "皮膚の再生"
+ },
+ {
+  "id": 227,
+  "en": "research",
+  "ja": "研究、調査"
+ },
+ {
+  "id": 228,
+  "en": "bankruptcy",
+  "ja": "破産、倒産"
+ },
+ {
+  "id": 229,
+  "en": "go bankrupt",
+  "ja": "破産する"
+ },
+ {
+  "id": 230,
+  "en": "the burden of proof",
+  "ja": "立証責任"
+ },
+ {
+  "id": 231,
+  "en": "organization",
+  "ja": "組織、団体"
+ },
+ {
+  "id": 232,
+  "en": "Tension will mount",
+  "ja": "緊張が高まるだろう"
+ },
+ {
+  "id": 233,
+  "en": "donate a liver",
+  "ja": "肝臓を提供する"
+ },
+ {
+  "id": 234,
+  "en": "embryonic",
+  "ja": "胚の、初期の"
+ },
+ {
+  "id": 235,
+  "en": "a restriction on freedom",
+  "ja": "自由への制限"
+ },
+ {
+  "id": 236,
+  "en": "an allergy to pollens",
+  "ja": "花粉アレルギー"
+ },
+ {
+  "id": 237,
+  "en": "a drug side-effect",
+  "ja": "薬の副作用"
+ },
+ {
+  "id": 238,
+  "en": "wonderful coordination",
+  "ja": "見事な連携"
+ },
+ {
+  "id": 239,
+  "en": "file a lawsuit",
+  "ja": "訴訟を起こす"
+ },
+ {
+  "id": 240,
+  "en": "controversy",
+  "ja": "論争、議論"
+ },
+ {
+  "id": 241,
+  "en": "a controversial subject",
+  "ja": "議論の的となる問題"
+ },
+ {
+  "id": 242,
+  "en": "encourage debate",
+  "ja": "議論を促す"
+ },
+ {
+  "id": 243,
+  "en": "agribusiness",
+  "ja": "農業関連企業"
+ },
+ {
+  "id": 244,
+  "en": "appropriate behavior",
+  "ja": "適切な行動"
+ },
+ {
+  "id": 245,
+  "en": "genetic engineering",
+  "ja": "遺伝子工学"
+ },
+ {
+  "id": 246,
+  "en": "gene therapy",
+  "ja": "遺伝子治療"
+ },
+ {
+  "id": 247,
+  "en": "genetically-modified foods",
+  "ja": "遺伝子組み換え食品"
+ },
+ {
+  "id": 248,
+  "en": "hereditary diseases",
+  "ja": "遺伝病"
+ },
+ {
+  "id": 249,
+  "en": "ambition",
+  "ja": "野心、大望、覇気"
+ },
+ {
+  "id": 250,
+  "en": "an ambitious politician",
+  "ja": "野心的な政治家"
+ },
+ {
+  "id": 251,
+  "en": "ban hunting wild animals",
+  "ja": "野生動物の狩りを禁止する"
+ },
+ {
+  "id": 252,
+  "en": "initiation",
+  "ja": "開始、加入、入会式"
+ },
+ {
+  "id": 253,
+  "en": "bone marrow",
+  "ja": "骨髄"
+ },
+ {
+  "id": 254,
+  "en": "enhancement",
+  "ja": "高まり、増大"
+ },
+ {
+  "id": 255,
+  "en": "growing resentment",
+  "ja": "高まる憤り"
+ },
+ {
+  "id": 256,
+  "en": "avian influenza",
+  "ja": "鳥インフルエンザ(a)"
+ },
+ {
+  "id": 257,
+  "en": "bird flu",
+  "ja": "鳥インフルエンザ(b)"
+ }
+]

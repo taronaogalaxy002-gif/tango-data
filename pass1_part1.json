@@ -1,0 +1,5002 @@
+[
+ {
+  "id": 1,
+  "en": "abuse",
+  "ja": "乱用する"
+ },
+ {
+  "id": 2,
+  "en": "address",
+  "ja": "取り上げる、対処する"
+ },
+ {
+  "id": 3,
+  "en": "advocate",
+  "ja": "支持者、擁護者"
+ },
+ {
+  "id": 4,
+  "en": "algorithm",
+  "ja": "アルゴリズム"
+ },
+ {
+  "id": 5,
+  "en": "amendment",
+  "ja": "修正、改正"
+ },
+ {
+  "id": 6,
+  "en": "antibiotic",
+  "ja": "抗生物質"
+ },
+ {
+  "id": 7,
+  "en": "archaeologist",
+  "ja": "考古学者"
+ },
+ {
+  "id": 8,
+  "en": "asset",
+  "ja": "資産、長所"
+ },
+ {
+  "id": 9,
+  "en": "attribute",
+  "ja": "特質、属性"
+ },
+ {
+  "id": 10,
+  "en": "balance",
+  "ja": "残高、均衡"
+ },
+ {
+  "id": 11,
+  "en": "bias",
+  "ja": "えこひいき、先入観"
+ },
+ {
+  "id": 12,
+  "en": "capitalism",
+  "ja": "資本主義"
+ },
+ {
+  "id": 13,
+  "en": "claim",
+  "ja": "主張する"
+ },
+ {
+  "id": 14,
+  "en": "commitment",
+  "ja": "責任、献身"
+ },
+ {
+  "id": 15,
+  "en": "complex",
+  "ja": "集合体、強迫観念"
+ },
+ {
+  "id": 16,
+  "en": "component",
+  "ja": "構成部品"
+ },
+ {
+  "id": 17,
+  "en": "congress",
+  "ja": "米国議会"
+ },
+ {
+  "id": 18,
+  "en": "contradict",
+  "ja": "反駁する、矛盾する"
+ },
+ {
+  "id": 19,
+  "en": "controversial",
+  "ja": "物議を醸す"
+ },
+ {
+  "id": 20,
+  "en": "convict",
+  "ja": "有罪判決を下す"
+ },
+ {
+  "id": 21,
+  "en": "conviction",
+  "ja": "確信、有罪判決"
+ },
+ {
+  "id": 22,
+  "en": "corruption",
+  "ja": "腐敗、不正行為"
+ },
+ {
+  "id": 23,
+  "en": "crack",
+  "ja": "割れ目、ひび"
+ },
+ {
+  "id": 24,
+  "en": "criterion",
+  "ja": "基準、標準"
+ },
+ {
+  "id": 25,
+  "en": "detect",
+  "ja": "感知する"
+ },
+ {
+  "id": 26,
+  "en": "diagnose",
+  "ja": "診断する"
+ },
+ {
+  "id": 27,
+  "en": "dismiss",
+  "ja": "却下する"
+ },
+ {
+  "id": 28,
+  "en": "dispute",
+  "ja": "論争、争議"
+ },
+ {
+  "id": 29,
+  "en": "disruptive",
+  "ja": "固定観念を壊す"
+ },
+ {
+  "id": 30,
+  "en": "diversity",
+  "ja": "多様性"
+ },
+ {
+  "id": 31,
+  "en": "domesticated",
+  "ja": "家畜化された、飼いならされた"
+ },
+ {
+  "id": 32,
+  "en": "electoral",
+  "ja": "選挙の"
+ },
+ {
+  "id": 33,
+  "en": "enforce",
+  "ja": "執行する"
+ },
+ {
+  "id": 34,
+  "en": "enormous",
+  "ja": "巨大な"
+ },
+ {
+  "id": 35,
+  "en": "evolve",
+  "ja": "進化する"
+ },
+ {
+  "id": 36,
+  "en": "expand",
+  "ja": "拡大する"
+ },
+ {
+  "id": 37,
+  "en": "extinct",
+  "ja": "絶滅した、死に絶えた"
+ },
+ {
+  "id": 38,
+  "en": "extinction",
+  "ja": "絶滅"
+ },
+ {
+  "id": 39,
+  "en": "founder",
+  "ja": "創設者、設立者"
+ },
+ {
+  "id": 40,
+  "en": "fuel",
+  "ja": "煽る、燃料補給する"
+ },
+ {
+  "id": 41,
+  "en": "genetically",
+  "ja": "遺伝的に"
+ },
+ {
+  "id": 42,
+  "en": "guarantee",
+  "ja": "確約する"
+ },
+ {
+  "id": 43,
+  "en": "habitat",
+  "ja": "生息環境、居住地"
+ },
+ {
+  "id": 44,
+  "en": "humanity",
+  "ja": "人文科学、人類"
+ },
+ {
+  "id": 45,
+  "en": "hydrogen",
+  "ja": "水素"
+ },
+ {
+  "id": 46,
+  "en": "immunization",
+  "ja": "予防接種"
+ },
+ {
+  "id": 47,
+  "en": "implement",
+  "ja": "実行する"
+ },
+ {
+  "id": 48,
+  "en": "incentive",
+  "ja": "刺激、動機、報奨金"
+ },
+ {
+  "id": 49,
+  "en": "indigenous",
+  "ja": "土着の、固有の"
+ },
+ {
+  "id": 50,
+  "en": "inevitable",
+  "ja": "避けられない"
+ },
+ {
+  "id": 51,
+  "en": "inhabitant",
+  "ja": "住民"
+ },
+ {
+  "id": 52,
+  "en": "initially",
+  "ja": "最初は"
+ },
+ {
+  "id": 53,
+  "en": "inmate",
+  "ja": "収容者"
+ },
+ {
+  "id": 54,
+  "en": "integrate",
+  "ja": "統合する"
+ },
+ {
+  "id": 55,
+  "en": "islander",
+  "ja": "島民"
+ },
+ {
+  "id": 56,
+  "en": "justify",
+  "ja": "正当化する"
+ },
+ {
+  "id": 57,
+  "en": "laborer",
+  "ja": "労働者"
+ },
+ {
+  "id": 58,
+  "en": "left-wing",
+  "ja": "左翼の、左派の"
+ },
+ {
+  "id": 59,
+  "en": "legacy",
+  "ja": "（過去からの）遺産"
+ },
+ {
+  "id": 60,
+  "en": "manipulate",
+  "ja": "巧みに操る"
+ },
+ {
+  "id": 61,
+  "en": "microbe",
+  "ja": "病原菌、微生物"
+ },
+ {
+  "id": 62,
+  "en": "migrate",
+  "ja": "移住する"
+ },
+ {
+  "id": 63,
+  "en": "migration",
+  "ja": "移住"
+ },
+ {
+  "id": 64,
+  "en": "mutation",
+  "ja": "変異型"
+ },
+ {
+  "id": 65,
+  "en": "nanoparticle",
+  "ja": "ナノ粒子"
+ },
+ {
+  "id": 66,
+  "en": "offender",
+  "ja": "犯罪者"
+ },
+ {
+  "id": 67,
+  "en": "perception",
+  "ja": "認識、知覚"
+ },
+ {
+  "id": 68,
+  "en": "perspective",
+  "ja": "観点、展望"
+ },
+ {
+  "id": 69,
+  "en": "plague",
+  "ja": "絶えず苦しめる"
+ },
+ {
+  "id": 70,
+  "en": "plot",
+  "ja": "陰謀、構想"
+ },
+ {
+  "id": 71,
+  "en": "portray",
+  "ja": "描写する"
+ },
+ {
+  "id": 72,
+  "en": "potential",
+  "ja": "潜在的な"
+ },
+ {
+  "id": 73,
+  "en": "prioritize",
+  "ja": "優先する"
+ },
+ {
+  "id": 74,
+  "en": "prohibition",
+  "ja": "禁止"
+ },
+ {
+  "id": 75,
+  "en": "project",
+  "ja": "見積もる"
+ },
+ {
+  "id": 76,
+  "en": "propaganda",
+  "ja": "プロパガンダ"
+ },
+ {
+  "id": 77,
+  "en": "proponent",
+  "ja": "支持者"
+ },
+ {
+  "id": 78,
+  "en": "prosecutor",
+  "ja": "検察官"
+ },
+ {
+  "id": 79,
+  "en": "rebel",
+  "ja": "反逆する"
+ },
+ {
+  "id": 80,
+  "en": "rebellion",
+  "ja": "反乱"
+ },
+ {
+  "id": 81,
+  "en": "regime",
+  "ja": "政権、政体"
+ },
+ {
+  "id": 82,
+  "en": "republic",
+  "ja": "共和国"
+ },
+ {
+  "id": 83,
+  "en": "reservoir",
+  "ja": "貯水池、貯蔵所"
+ },
+ {
+  "id": 84,
+  "en": "robotic",
+  "ja": "ロボットの"
+ },
+ {
+  "id": 85,
+  "en": "slavery",
+  "ja": "奴隷制度"
+ },
+ {
+  "id": 86,
+  "en": "stem",
+  "ja": "茎、幹、船首"
+ },
+ {
+  "id": 87,
+  "en": "stimulate",
+  "ja": "刺激する"
+ },
+ {
+  "id": 88,
+  "en": "subsequent",
+  "ja": "その後の"
+ },
+ {
+  "id": 89,
+  "en": "sustain",
+  "ja": "維持する"
+ },
+ {
+  "id": 90,
+  "en": "telescope",
+  "ja": "望遠鏡"
+ },
+ {
+  "id": 91,
+  "en": "toxic",
+  "ja": "有毒な"
+ },
+ {
+  "id": 92,
+  "en": "trait",
+  "ja": "資質"
+ },
+ {
+  "id": 93,
+  "en": "ultimately",
+  "ja": "最終的には"
+ },
+ {
+  "id": 94,
+  "en": "undergo",
+  "ja": "経験する"
+ },
+ {
+  "id": 95,
+  "en": "uprising",
+  "ja": "反乱、暴動"
+ },
+ {
+  "id": 96,
+  "en": "vent",
+  "ja": "通気孔、穴、はけ口"
+ },
+ {
+  "id": 97,
+  "en": "vet",
+  "ja": "獣医"
+ },
+ {
+  "id": 98,
+  "en": "warfare",
+  "ja": "戦争（行為）、交戦状態"
+ },
+ {
+  "id": 99,
+  "en": "weather",
+  "ja": "切り抜ける"
+ },
+ {
+  "id": 100,
+  "en": "widespread",
+  "ja": "広範な、広く知られた"
+ },
+ {
+  "id": 101,
+  "en": "abolish",
+  "ja": "を廃止する"
+ },
+ {
+  "id": 102,
+  "en": "agenda",
+  "ja": "協議事項（リスト）"
+ },
+ {
+  "id": 103,
+  "en": "alliance",
+  "ja": "同盟、提携"
+ },
+ {
+  "id": 104,
+  "en": "appealing",
+  "ja": "魅力的な"
+ },
+ {
+  "id": 105,
+  "en": "assessment",
+  "ja": "査定、評価"
+ },
+ {
+  "id": 106,
+  "en": "authentic",
+  "ja": "本物の、確実な、信頼できる"
+ },
+ {
+  "id": 107,
+  "en": "bid",
+  "ja": "試み、つけ値"
+ },
+ {
+  "id": 108,
+  "en": "brutality",
+  "ja": "残忍さ、野蛮"
+ },
+ {
+  "id": 109,
+  "en": "cellular",
+  "ja": "細胞の"
+ },
+ {
+  "id": 110,
+  "en": "civic",
+  "ja": "市民としての、市の"
+ },
+ {
+  "id": 111,
+  "en": "compelling",
+  "ja": "説得力のある、納得のいく"
+ },
+ {
+  "id": 112,
+  "en": "composition",
+  "ja": "組成、構造、構図"
+ },
+ {
+  "id": 113,
+  "en": "comprise",
+  "ja": "を構成する"
+ },
+ {
+  "id": 114,
+  "en": "conquest",
+  "ja": "征服"
+ },
+ {
+  "id": 115,
+  "en": "considerable",
+  "ja": "かなりの、相当の"
+ },
+ {
+  "id": 116,
+  "en": "constitute",
+  "ja": "選挙区民、成分"
+ },
+ {
+  "id": 117,
+  "en": "contamination",
+  "ja": "汚染"
+ },
+ {
+  "id": 118,
+  "en": "contractor",
+  "ja": "請負業者"
+ },
+ {
+  "id": 119,
+  "en": "correction",
+  "ja": "訂正、修正、矯正"
+ },
+ {
+  "id": 120,
+  "en": "counselor",
+  "ja": "カウンセラー、相談員"
+ },
+ {
+  "id": 121,
+  "en": "coup",
+  "ja": "クーデター"
+ },
+ {
+  "id": 122,
+  "en": "crust",
+  "ja": "地殻、パンの耳"
+ },
+ {
+  "id": 123,
+  "en": "cultivate",
+  "ja": "を栽培する"
+ },
+ {
+  "id": 124,
+  "en": "decay",
+  "ja": "腐敗する、崩壊する"
+ },
+ {
+  "id": 125,
+  "en": "decent",
+  "ja": "かなりの、きちんとした"
+ },
+ {
+  "id": 126,
+  "en": "decisive",
+  "ja": "断固とした、決定的な"
+ },
+ {
+  "id": 127,
+  "en": "depict",
+  "ja": "を描く"
+ },
+ {
+  "id": 128,
+  "en": "deploy",
+  "ja": "を配置する"
+ },
+ {
+  "id": 129,
+  "en": "diminish",
+  "ja": "減少する、を減らす"
+ },
+ {
+  "id": 130,
+  "en": "dismantle",
+  "ja": "を分解する"
+ },
+ {
+  "id": 131,
+  "en": "enforcement",
+  "ja": "（法律などの）施行"
+ },
+ {
+  "id": 132,
+  "en": "entitle",
+  "ja": "に権利を与える"
+ },
+ {
+  "id": 133,
+  "en": "ethical",
+  "ja": "道理にかなった"
+ },
+ {
+  "id": 134,
+  "en": "exonerate",
+  "ja": "の疑いを晴らす"
+ },
+ {
+  "id": 135,
+  "en": "extract",
+  "ja": "を抽出する"
+ },
+ {
+  "id": 136,
+  "en": "fireplace",
+  "ja": "暖炉"
+ },
+ {
+  "id": 137,
+  "en": "forgery",
+  "ja": "偽造品、偽造罪"
+ },
+ {
+  "id": 138,
+  "en": "fundamentally",
+  "ja": "根本的に、基本的に"
+ },
+ {
+  "id": 139,
+  "en": "gifted",
+  "ja": "優れた才能（知能）のある"
+ },
+ {
+  "id": 140,
+  "en": "glue",
+  "ja": "接着剤"
+ },
+ {
+  "id": 141,
+  "en": "gunpowder",
+  "ja": "火薬"
+ },
+ {
+  "id": 142,
+  "en": "halt",
+  "ja": "止まる、を止める"
+ },
+ {
+  "id": 143,
+  "en": "hostility",
+  "ja": "敵意、反感"
+ },
+ {
+  "id": 144,
+  "en": "ignite",
+  "ja": "に火をつける"
+ },
+ {
+  "id": 145,
+  "en": "illicit",
+  "ja": "不義の、不正な"
+ },
+ {
+  "id": 146,
+  "en": "imprisonment",
+  "ja": "投獄、監禁"
+ },
+ {
+  "id": 147,
+  "en": "infer",
+  "ja": "を察する"
+ },
+ {
+  "id": 148,
+  "en": "inherent",
+  "ja": "生来の、固有の"
+ },
+ {
+  "id": 149,
+  "en": "initiative",
+  "ja": "重要な新計画、主導権"
+ },
+ {
+  "id": 150,
+  "en": "injection",
+  "ja": "注射、注入"
+ },
+ {
+  "id": 151,
+  "en": "interestingly",
+  "ja": "興味深いことに"
+ },
+ {
+  "id": 152,
+  "en": "intervention",
+  "ja": "介入、仲裁"
+ },
+ {
+  "id": 153,
+  "en": "irrational",
+  "ja": "訳の分からない、不合理な"
+ },
+ {
+  "id": 154,
+  "en": "lease",
+  "ja": "をリース（で貸借）する"
+ },
+ {
+  "id": 155,
+  "en": "manipulation",
+  "ja": "（世論などの）操作"
+ },
+ {
+  "id": 156,
+  "en": "mate",
+  "ja": "つがいの相手"
+ },
+ {
+  "id": 157,
+  "en": "methane",
+  "ja": "メタン"
+ },
+ {
+  "id": 158,
+  "en": "morality",
+  "ja": "道徳、倫理"
+ },
+ {
+  "id": 159,
+  "en": "mortality",
+  "ja": "死亡率、死ぬ運命"
+ },
+ {
+  "id": 160,
+  "en": "myriad",
+  "ja": "無数"
+ },
+ {
+  "id": 161,
+  "en": "oversee",
+  "ja": "を監督する"
+ },
+ {
+  "id": 162,
+  "en": "painkiller",
+  "ja": "鎮痛剤"
+ },
+ {
+  "id": 163,
+  "en": "peer",
+  "ja": "仲間、同輩、英国貴族"
+ },
+ {
+  "id": 164,
+  "en": "perish",
+  "ja": "死ぬ、滅びる"
+ },
+ {
+  "id": 165,
+  "en": "phase",
+  "ja": "段階、局面、面"
+ },
+ {
+  "id": 166,
+  "en": "philosopher",
+  "ja": "哲学者"
+ },
+ {
+  "id": 167,
+  "en": "premium",
+  "ja": "報奨金、保険料"
+ },
+ {
+  "id": 168,
+  "en": "present-day",
+  "ja": "現代の、今日の"
+ },
+ {
+  "id": 169,
+  "en": "pricey",
+  "ja": "高価な"
+ },
+ {
+  "id": 170,
+  "en": "projection",
+  "ja": "予測"
+ },
+ {
+  "id": 171,
+  "en": "psychiatric",
+  "ja": "精神病学の"
+ },
+ {
+  "id": 172,
+  "en": "psychiatrist",
+  "ja": "精神科医"
+ },
+ {
+  "id": 173,
+  "en": "quota",
+  "ja": "割り当て、ノルマ"
+ },
+ {
+  "id": 174,
+  "en": "racial",
+  "ja": "人種の、民族の"
+ },
+ {
+  "id": 175,
+  "en": "regain",
+  "ja": "を取り戻す"
+ },
+ {
+  "id": 176,
+  "en": "reinforce",
+  "ja": "補強する"
+ },
+ {
+  "id": 177,
+  "en": "reliance",
+  "ja": "依存"
+ },
+ {
+  "id": 178,
+  "en": "resume",
+  "ja": "再開する"
+ },
+ {
+  "id": 179,
+  "en": "rodent",
+  "ja": "齧歯類の動物"
+ },
+ {
+  "id": 180,
+  "en": "scheme",
+  "ja": "たくみ、計画"
+ },
+ {
+  "id": 181,
+  "en": "sensitivity",
+  "ja": "配慮、過敏性"
+ },
+ {
+  "id": 182,
+  "en": "sentiment",
+  "ja": "感情、心情、意見"
+ },
+ {
+  "id": 183,
+  "en": "severity",
+  "ja": "厳しさ、深刻さ"
+ },
+ {
+  "id": 184,
+  "en": "simultaneously",
+  "ja": "同時に"
+ },
+ {
+  "id": 185,
+  "en": "skeptical",
+  "ja": "懐疑的な"
+ },
+ {
+  "id": 186,
+  "en": "socialist",
+  "ja": "社会主義者"
+ },
+ {
+  "id": 187,
+  "en": "solely",
+  "ja": "単独で、ただ、単に"
+ },
+ {
+  "id": 188,
+  "en": "specification",
+  "ja": "製品仕様"
+ },
+ {
+  "id": 189,
+  "en": "stake",
+  "ja": "株、投資、利害関係"
+ },
+ {
+  "id": 190,
+  "en": "stimulus",
+  "ja": "刺激"
+ },
+ {
+  "id": 191,
+  "en": "stockpile",
+  "ja": "（食料・武器などの）備蓄"
+ },
+ {
+  "id": 192,
+  "en": "sympathetic",
+  "ja": "好意的な、同情的な"
+ },
+ {
+  "id": 193,
+  "en": "tenure",
+  "ja": "（大学教授の）終身在職権"
+ },
+ {
+  "id": 194,
+  "en": "trigger",
+  "ja": "を誘発する"
+ },
+ {
+  "id": 195,
+  "en": "underestimate",
+  "ja": "を過小評価する"
+ },
+ {
+  "id": 196,
+  "en": "variant",
+  "ja": "変形、変種、異形"
+ },
+ {
+  "id": 197,
+  "en": "volcanic",
+  "ja": "火山の、火山性の"
+ },
+ {
+  "id": 198,
+  "en": "watershed",
+  "ja": "分水嶺"
+ },
+ {
+  "id": 199,
+  "en": "workload",
+  "ja": "仕事の負担量"
+ },
+ {
+  "id": 200,
+  "en": "zoology",
+  "ja": "動物学"
+ },
+ {
+  "id": 201,
+  "en": "accountable",
+  "ja": "（説明などの）責任がある"
+ },
+ {
+  "id": 202,
+  "en": "administrative",
+  "ja": "行政上の、管理上の"
+ },
+ {
+  "id": 203,
+  "en": "adoption",
+  "ja": "採用、養子縁組"
+ },
+ {
+  "id": 204,
+  "en": "adverse",
+  "ja": "不利な、不都合な"
+ },
+ {
+  "id": 205,
+  "en": "allocate",
+  "ja": "を割り当てる"
+ },
+ {
+  "id": 206,
+  "en": "attorney",
+  "ja": "弁護士"
+ },
+ {
+  "id": 207,
+  "en": "biodiversity",
+  "ja": "生物多様性"
+ },
+ {
+  "id": 208,
+  "en": "blight",
+  "ja": "破滅の原因、胴枯れ病"
+ },
+ {
+  "id": 209,
+  "en": "captivity",
+  "ja": "捕らわれの状態"
+ },
+ {
+  "id": 210,
+  "en": "carrier",
+  "ja": "保菌者、輸送会社"
+ },
+ {
+  "id": 211,
+  "en": "catalyst",
+  "ja": "触媒、きっかけ、触発するもの"
+ },
+ {
+  "id": 212,
+  "en": "catering",
+  "ja": "ケータリング"
+ },
+ {
+  "id": 213,
+  "en": "cavity",
+  "ja": "虫歯（の穴）"
+ },
+ {
+  "id": 214,
+  "en": "cement",
+  "ja": "セメント"
+ },
+ {
+  "id": 215,
+  "en": "coalition",
+  "ja": "連合、合同、連立"
+ },
+ {
+  "id": 216,
+  "en": "collective",
+  "ja": "共同の、集団の"
+ },
+ {
+  "id": 217,
+  "en": "collision",
+  "ja": "衝突"
+ },
+ {
+  "id": 218,
+  "en": "commander",
+  "ja": "司令官、指揮官"
+ },
+ {
+  "id": 219,
+  "en": "congressional",
+  "ja": "議会の、米国議会の"
+ },
+ {
+  "id": 220,
+  "en": "consistently",
+  "ja": "首尾一貫して、安定して"
+ },
+ {
+  "id": 221,
+  "en": "conspirator",
+  "ja": "陰謀者、共謀者"
+ },
+ {
+  "id": 222,
+  "en": "constitutional",
+  "ja": "合憲の、憲法の、本質の"
+ },
+ {
+  "id": 223,
+  "en": "conventional",
+  "ja": "従来の、因習的な"
+ },
+ {
+  "id": 224,
+  "en": "coordination",
+  "ja": "連携、調整、整合"
+ },
+ {
+  "id": 225,
+  "en": "cornerstone",
+  "ja": "基礎、土台"
+ },
+ {
+  "id": 226,
+  "en": "counterfeit",
+  "ja": "偽造通貨、模造品"
+ },
+ {
+  "id": 227,
+  "en": "debris",
+  "ja": "がれき、残骸"
+ },
+ {
+  "id": 228,
+  "en": "defect",
+  "ja": "欠損、欠陥"
+ },
+ {
+  "id": 229,
+  "en": "deter",
+  "ja": "に思いとどまらせる"
+ },
+ {
+  "id": 230,
+  "en": "deterioration",
+  "ja": "悪化、低下"
+ },
+ {
+  "id": 231,
+  "en": "diagnosis",
+  "ja": "診断"
+ },
+ {
+  "id": 232,
+  "en": "discomfort",
+  "ja": "不快、不愉快"
+ },
+ {
+  "id": 233,
+  "en": "discriminate",
+  "ja": "差別する、識別する"
+ },
+ {
+  "id": 234,
+  "en": "disparate",
+  "ja": "本質的に異なる"
+ },
+ {
+  "id": 235,
+  "en": "drain",
+  "ja": "の水を排出する"
+ },
+ {
+  "id": 236,
+  "en": "embrace",
+  "ja": "を受け入れる"
+ },
+ {
+  "id": 237,
+  "en": "enact",
+  "ja": "を制定する"
+ },
+ {
+  "id": 238,
+  "en": "equivalent",
+  "ja": "等しい、等価の"
+ },
+ {
+  "id": 239,
+  "en": "ethic",
+  "ja": "倫理、道徳"
+ },
+ {
+  "id": 240,
+  "en": "expertise",
+  "ja": "専門知識"
+ },
+ {
+  "id": 241,
+  "en": "expire",
+  "ja": "期限が切れる"
+ },
+ {
+  "id": 242,
+  "en": "exploit",
+  "ja": "を利用する"
+ },
+ {
+  "id": 243,
+  "en": "explosive",
+  "ja": "一触即発の"
+ },
+ {
+  "id": 244,
+  "en": "faction",
+  "ja": "派閥"
+ },
+ {
+  "id": 245,
+  "en": "finalize",
+  "ja": "を完結させる"
+ },
+ {
+  "id": 246,
+  "en": "gamble",
+  "ja": "～に賭ける、賭け事をする"
+ },
+ {
+  "id": 247,
+  "en": "hail",
+  "ja": "を称賛する、歓迎する"
+ },
+ {
+  "id": 248,
+  "en": "harness",
+  "ja": "（自然の力）を利用する"
+ },
+ {
+  "id": 249,
+  "en": "herd",
+  "ja": "（動物の）群れ"
+ },
+ {
+  "id": 250,
+  "en": "hostile",
+  "ja": "敵の、悪意のある"
+ },
+ {
+  "id": 251,
+  "en": "implementation",
+  "ja": "実行、処理"
+ },
+ {
+  "id": 252,
+  "en": "incarceration",
+  "ja": "投獄、監禁"
+ },
+ {
+  "id": 253,
+  "en": "incomplete",
+  "ja": "不完全な、未完成の"
+ },
+ {
+  "id": 254,
+  "en": "influx",
+  "ja": "流入"
+ },
+ {
+  "id": 255,
+  "en": "inhibit",
+  "ja": "を抑制する"
+ },
+ {
+  "id": 256,
+  "en": "intent",
+  "ja": "意図、目的"
+ },
+ {
+  "id": 257,
+  "en": "janitor",
+  "ja": "用務員、管理人"
+ },
+ {
+  "id": 258,
+  "en": "judicial",
+  "ja": "司法の、裁判の"
+ },
+ {
+  "id": 259,
+  "en": "liaison",
+  "ja": "連絡係、連絡"
+ },
+ {
+  "id": 260,
+  "en": "mandatory",
+  "ja": "義務的な、強制の"
+ },
+ {
+  "id": 261,
+  "en": "mosaic",
+  "ja": "モザイク、寄せ集め"
+ },
+ {
+  "id": 262,
+  "en": "negligible",
+  "ja": "ごくわずかの、取るに足らない"
+ },
+ {
+  "id": 263,
+  "en": "neuroscientist",
+  "ja": "神経科学者"
+ },
+ {
+  "id": 264,
+  "en": "overthrow",
+  "ja": "（政府など）を転覆させる"
+ },
+ {
+  "id": 265,
+  "en": "overwhelming",
+  "ja": "圧倒的な"
+ },
+ {
+  "id": 266,
+  "en": "paleontologist",
+  "ja": "古生物学者"
+ },
+ {
+  "id": 267,
+  "en": "pathogen",
+  "ja": "病原体、病原菌"
+ },
+ {
+  "id": 268,
+  "en": "pension",
+  "ja": "年金"
+ },
+ {
+  "id": 269,
+  "en": "pitch",
+  "ja": "を売り込む"
+ },
+ {
+  "id": 270,
+  "en": "portrait",
+  "ja": "肖像画"
+ },
+ {
+  "id": 271,
+  "en": "profound",
+  "ja": "深い、深遠な"
+ },
+ {
+  "id": 272,
+  "en": "prosecution",
+  "ja": "起訴、告訴"
+ },
+ {
+  "id": 273,
+  "en": "qualification",
+  "ja": "資格、資質"
+ },
+ {
+  "id": 274,
+  "en": "reductionism",
+  "ja": "還元主義"
+ },
+ {
+  "id": 275,
+  "en": "relevance",
+  "ja": "関連、妥当性"
+ },
+ {
+  "id": 276,
+  "en": "reproduction",
+  "ja": "生殖、再生、繁殖"
+ },
+ {
+  "id": 277,
+  "en": "resonate",
+  "ja": "共感を呼び起こす"
+ },
+ {
+  "id": 278,
+  "en": "resurrect",
+  "ja": "を復活させる"
+ },
+ {
+  "id": 279,
+  "en": "retain",
+  "ja": "を保持する"
+ },
+ {
+  "id": 280,
+  "en": "screening",
+  "ja": "（特定の病気の）検診、映画の上映"
+ },
+ {
+  "id": 281,
+  "en": "sediment",
+  "ja": "堆積物、沈殿物"
+ },
+ {
+  "id": 282,
+  "en": "senescence",
+  "ja": "（細胞の）老化"
+ },
+ {
+  "id": 283,
+  "en": "slaughter",
+  "ja": "を虐殺する"
+ },
+ {
+  "id": 284,
+  "en": "socioeconomic",
+  "ja": "社会経済的な"
+ },
+ {
+  "id": 285,
+  "en": "sociologist",
+  "ja": "社会学者"
+ },
+ {
+  "id": 286,
+  "en": "spacecraft",
+  "ja": "宇宙船"
+ },
+ {
+  "id": 287,
+  "en": "subsequently",
+  "ja": "その後"
+ },
+ {
+  "id": 288,
+  "en": "substantially",
+  "ja": "かなり、相当"
+ },
+ {
+  "id": 289,
+  "en": "suppress",
+  "ja": "を鎮圧する、を抑圧する"
+ },
+ {
+  "id": 290,
+  "en": "surely",
+  "ja": "確かに、間違いなく"
+ },
+ {
+  "id": 291,
+  "en": "surveillance",
+  "ja": "監視、見張り"
+ },
+ {
+  "id": 292,
+  "en": "territorial",
+  "ja": "領土の、縄張りを守る"
+ },
+ {
+  "id": 293,
+  "en": "terrorism",
+  "ja": "テロ、テロリズム"
+ },
+ {
+  "id": 294,
+  "en": "transmit",
+  "ja": "を伝達する、を感染させる"
+ },
+ {
+  "id": 295,
+  "en": "underwater",
+  "ja": "水中の、水面下の"
+ },
+ {
+  "id": 296,
+  "en": "unethical",
+  "ja": "非倫理的な、道義に反する"
+ },
+ {
+  "id": 297,
+  "en": "unrealistic",
+  "ja": "非現実的な"
+ },
+ {
+  "id": 298,
+  "en": "usher",
+  "ja": "を案内する"
+ },
+ {
+  "id": 299,
+  "en": "utility",
+  "ja": "公共事業、有用性"
+ },
+ {
+  "id": 300,
+  "en": "validity",
+  "ja": "効力、正当性"
+ },
+ {
+  "id": 301,
+  "en": "Paleolithic",
+  "ja": "旧石器時代の"
+ },
+ {
+  "id": 302,
+  "en": "accelerate",
+  "ja": "加速する"
+ },
+ {
+  "id": 303,
+  "en": "acceptance",
+  "ja": "受け入れ、容認"
+ },
+ {
+  "id": 304,
+  "en": "agrarian",
+  "ja": "農地の、農業の"
+ },
+ {
+  "id": 305,
+  "en": "ammunition",
+  "ja": "弾薬"
+ },
+ {
+  "id": 306,
+  "en": "anonymous",
+  "ja": "作者不詳の"
+ },
+ {
+  "id": 307,
+  "en": "artillery",
+  "ja": "大砲、砲兵隊"
+ },
+ {
+  "id": 308,
+  "en": "auditorium",
+  "ja": "公会堂"
+ },
+ {
+  "id": 309,
+  "en": "autism",
+  "ja": "自閉症"
+ },
+ {
+  "id": 310,
+  "en": "bribery",
+  "ja": "贈賄罪"
+ },
+ {
+  "id": 311,
+  "en": "carbohydrate",
+  "ja": "炭水化物"
+ },
+ {
+  "id": 312,
+  "en": "cautious",
+  "ja": "用心深い、慎重な"
+ },
+ {
+  "id": 313,
+  "en": "certify",
+  "ja": "を証明する、を認定する"
+ },
+ {
+  "id": 314,
+  "en": "chain",
+  "ja": "チェーン"
+ },
+ {
+  "id": 315,
+  "en": "charitable",
+  "ja": "慈善の、慈悲深い"
+ },
+ {
+  "id": 316,
+  "en": "chimney",
+  "ja": "煙突"
+ },
+ {
+  "id": 317,
+  "en": "clergy",
+  "ja": "聖職者"
+ },
+ {
+  "id": 318,
+  "en": "coefficient",
+  "ja": "係数"
+ },
+ {
+  "id": 319,
+  "en": "collaborate",
+  "ja": "協力する"
+ },
+ {
+  "id": 320,
+  "en": "combustion",
+  "ja": "燃焼"
+ },
+ {
+  "id": 321,
+  "en": "complimentary",
+  "ja": "無料の、無償の"
+ },
+ {
+  "id": 322,
+  "en": "comprehensive",
+  "ja": "総合的な"
+ },
+ {
+  "id": 323,
+  "en": "conception",
+  "ja": "概念、受胎"
+ },
+ {
+  "id": 324,
+  "en": "concussion",
+  "ja": "脳震とう"
+ },
+ {
+  "id": 325,
+  "en": "congressman",
+  "ja": "国会議員、下院"
+ },
+ {
+  "id": 326,
+  "en": "conscience",
+  "ja": "良心"
+ },
+ {
+  "id": 327,
+  "en": "convincing",
+  "ja": "説得力のある"
+ },
+ {
+  "id": 328,
+  "en": "cultivation",
+  "ja": "耕作、栽培"
+ },
+ {
+  "id": 329,
+  "en": "depressed",
+  "ja": "塞ぎこんだ、うつ病の"
+ },
+ {
+  "id": 330,
+  "en": "dictatorship",
+  "ja": "独裁国家、独裁制"
+ },
+ {
+  "id": 331,
+  "en": "diplomacy",
+  "ja": "外交、外交上の手腕"
+ },
+ {
+  "id": 332,
+  "en": "disrupt",
+  "ja": "を中断(混乱)させる"
+ },
+ {
+  "id": 333,
+  "en": "diverse",
+  "ja": "多様な"
+ },
+ {
+  "id": 334,
+  "en": "divert",
+  "ja": "を迂回させる"
+ },
+ {
+  "id": 335,
+  "en": "drawback",
+  "ja": "欠点、不利な点"
+ },
+ {
+  "id": 336,
+  "en": "emergence",
+  "ja": "出現、発生"
+ },
+ {
+  "id": 337,
+  "en": "episode",
+  "ja": "エピソード"
+ },
+ {
+  "id": 338,
+  "en": "evident",
+  "ja": "明白な、明らかな"
+ },
+ {
+  "id": 339,
+  "en": "famine",
+  "ja": "飢饉"
+ },
+ {
+  "id": 340,
+  "en": "flee",
+  "ja": "(～から)逃げる"
+ },
+ {
+  "id": 341,
+  "en": "flourish",
+  "ja": "栄える"
+ },
+ {
+  "id": 342,
+  "en": "forge",
+  "ja": "を築きあげる、を偽造する"
+ },
+ {
+  "id": 343,
+  "en": "fraction",
+  "ja": "ほんの少し、わずか"
+ },
+ {
+  "id": 344,
+  "en": "gentrification",
+  "ja": "(スラム街の)高級住宅地化"
+ },
+ {
+  "id": 345,
+  "en": "grab",
+  "ja": "をつかむ"
+ },
+ {
+  "id": 346,
+  "en": "guilt",
+  "ja": "罪悪感、やましさ"
+ },
+ {
+  "id": 347,
+  "en": "hatred",
+  "ja": "憎しみ"
+ },
+ {
+  "id": 348,
+  "en": "hazardous",
+  "ja": "危険な、有害な"
+ },
+ {
+  "id": 349,
+  "en": "heritage",
+  "ja": "遺産"
+ },
+ {
+  "id": 350,
+  "en": "hierarchy",
+  "ja": "ヒエラルキー、階層性"
+ },
+ {
+  "id": 351,
+  "en": "hygiene",
+  "ja": "衛生管理、清潔"
+ },
+ {
+  "id": 352,
+  "en": "indication",
+  "ja": "兆し、兆候"
+ },
+ {
+  "id": 353,
+  "en": "indispensable",
+  "ja": "必要不可欠な"
+ },
+ {
+  "id": 354,
+  "en": "industrialize",
+  "ja": "産業化する、工業化する"
+ },
+ {
+  "id": 355,
+  "en": "innate",
+  "ja": "生来の"
+ },
+ {
+  "id": 356,
+  "en": "insistence",
+  "ja": "主張、断言"
+ },
+ {
+  "id": 357,
+  "en": "internationally",
+  "ja": "国際的に"
+ },
+ {
+  "id": 358,
+  "en": "irrigation",
+  "ja": "灌漑"
+ },
+ {
+  "id": 359,
+  "en": "juvenile",
+  "ja": "青少年の"
+ },
+ {
+  "id": 360,
+  "en": "kitten",
+  "ja": "子猫"
+ },
+ {
+  "id": 361,
+  "en": "mileage",
+  "ja": "走行距離"
+ },
+ {
+  "id": 362,
+  "en": "militia",
+  "ja": "民兵、市民軍"
+ },
+ {
+  "id": 363,
+  "en": "missile",
+  "ja": "ミサイル"
+ },
+ {
+  "id": 364,
+  "en": "mistakenly",
+  "ja": "誤って、間違って"
+ },
+ {
+  "id": 365,
+  "en": "mount",
+  "ja": "を取り付ける"
+ },
+ {
+  "id": 366,
+  "en": "niche",
+  "ja": "市場の隙間、ニッチ"
+ },
+ {
+  "id": 367,
+  "en": "overly",
+  "ja": "過度に"
+ },
+ {
+  "id": 368,
+  "en": "populace",
+  "ja": "大衆、庶民"
+ },
+ {
+  "id": 369,
+  "en": "prediction",
+  "ja": "予測、予言"
+ },
+ {
+  "id": 370,
+  "en": "preservation",
+  "ja": "保存、保護"
+ },
+ {
+  "id": 371,
+  "en": "prevail",
+  "ja": "圧倒する、普及する"
+ },
+ {
+  "id": 372,
+  "en": "progressive",
+  "ja": "進歩的な、革新的な"
+ },
+ {
+  "id": 373,
+  "en": "pronoun",
+  "ja": "代名詞"
+ },
+ {
+  "id": 374,
+  "en": "protestant",
+  "ja": "プロテスタントの"
+ },
+ {
+  "id": 375,
+  "en": "radar",
+  "ja": "レーダー"
+ },
+ {
+  "id": 376,
+  "en": "real-life",
+  "ja": "現実の"
+ },
+ {
+  "id": 377,
+  "en": "rehabilitate",
+  "ja": "を更生させる"
+ },
+ {
+  "id": 378,
+  "en": "rehabilitation",
+  "ja": "社会復帰"
+ },
+ {
+  "id": 379,
+  "en": "repress",
+  "ja": "を抑圧する"
+ },
+ {
+  "id": 380,
+  "en": "reptile",
+  "ja": "爬虫類"
+ },
+ {
+  "id": 381,
+  "en": "revolt",
+  "ja": "反乱を起こす"
+ },
+ {
+  "id": 382,
+  "en": "revolutionary",
+  "ja": "革命的な、画期的な"
+ },
+ {
+  "id": 383,
+  "en": "specimen",
+  "ja": "標本"
+ },
+ {
+  "id": 384,
+  "en": "spectrum",
+  "ja": "(変動)範囲、スペクトル"
+ },
+ {
+  "id": 385,
+  "en": "staunch",
+  "ja": "強固な、筋金入りの"
+ },
+ {
+  "id": 386,
+  "en": "subordinate",
+  "ja": "を従属させる"
+ },
+ {
+  "id": 387,
+  "en": "turbine",
+  "ja": "タービン"
+ },
+ {
+  "id": 388,
+  "en": "textile",
+  "ja": "織物、布地"
+ },
+ {
+  "id": 389,
+  "en": "transformation",
+  "ja": "(生物の)変態"
+ },
+ {
+  "id": 390,
+  "en": "transparency",
+  "ja": "透明性、透明さ"
+ },
+ {
+  "id": 391,
+  "en": "transparent",
+  "ja": "透明な、明白な"
+ },
+ {
+  "id": 392,
+  "en": "tumor",
+  "ja": "腫瘍"
+ },
+ {
+  "id": 393,
+  "en": "uncover",
+  "ja": "を暴露する、を見出す"
+ },
+ {
+  "id": 394,
+  "en": "unearth",
+  "ja": "を発掘する"
+ },
+ {
+  "id": 395,
+  "en": "unprecedented",
+  "ja": "前例のない"
+ },
+ {
+  "id": 396,
+  "en": "urbanization",
+  "ja": "都市化"
+ },
+ {
+  "id": 397,
+  "en": "venue",
+  "ja": "会場、開催地"
+ },
+ {
+  "id": 398,
+  "en": "verify",
+  "ja": "を検証する"
+ },
+ {
+  "id": 399,
+  "en": "wage",
+  "ja": "(戦争など)を行う"
+ },
+ {
+  "id": 400,
+  "en": "ward",
+  "ja": "病棟、行政区"
+ },
+ {
+  "id": 401,
+  "en": "accountability",
+  "ja": "説明責任、説明義務"
+ },
+ {
+  "id": 402,
+  "en": "acquisition",
+  "ja": "習得、獲得、買収"
+ },
+ {
+  "id": 403,
+  "en": "acre",
+  "ja": "エーカー"
+ },
+ {
+  "id": 404,
+  "en": "aggression",
+  "ja": "侵略、侵犯"
+ },
+ {
+  "id": 405,
+  "en": "aggressively",
+  "ja": "積極的に、攻撃的に"
+ },
+ {
+  "id": 406,
+  "en": "alienate",
+  "ja": "を遠ざける"
+ },
+ {
+  "id": 407,
+  "en": "ambush",
+  "ja": "を待ち伏せして襲う"
+ },
+ {
+  "id": 408,
+  "en": "assertion",
+  "ja": "主張、断言"
+ },
+ {
+  "id": 409,
+  "en": "authenticity",
+  "ja": "本物であること、真実性"
+ },
+ {
+  "id": 410,
+  "en": "booth",
+  "ja": "ブース"
+ },
+ {
+  "id": 411,
+  "en": "broadcaster",
+  "ja": "放送局、キャスター"
+ },
+ {
+  "id": 412,
+  "en": "bud",
+  "ja": "芽、つぼみ、芽状突起"
+ },
+ {
+  "id": 413,
+  "en": "canopy",
+  "ja": "林冠、天蓋"
+ },
+ {
+  "id": 414,
+  "en": "carriage",
+  "ja": "馬車、客車、乳母車"
+ },
+ {
+  "id": 415,
+  "en": "clash",
+  "ja": "衝突"
+ },
+ {
+  "id": 416,
+  "en": "climatic",
+  "ja": "気候の"
+ },
+ {
+  "id": 417,
+  "en": "clout",
+  "ja": "権力、影響力、殴打"
+ },
+ {
+  "id": 418,
+  "en": "cognition",
+  "ja": "認識、認知"
+ },
+ {
+  "id": 419,
+  "en": "complexity",
+  "ja": "複雑さ"
+ },
+ {
+  "id": 420,
+  "en": "condemn",
+  "ja": "を激しく非難する"
+ },
+ {
+  "id": 421,
+  "en": "consciousness",
+  "ja": "社会意識、意識、考え方"
+ },
+ {
+  "id": 422,
+  "en": "considerably",
+  "ja": "かなり、相当に"
+ },
+ {
+  "id": 423,
+  "en": "correlate",
+  "ja": "をお互いに関連させる"
+ },
+ {
+  "id": 424,
+  "en": "cortex",
+  "ja": "(大脳)皮質"
+ },
+ {
+  "id": 425,
+  "en": "credibility",
+  "ja": "信頼、信憑性"
+ },
+ {
+  "id": 426,
+  "en": "deception",
+  "ja": "欺瞞、ごまかし"
+ },
+ {
+  "id": 427,
+  "en": "decimate",
+  "ja": "を大量に減少させる"
+ },
+ {
+  "id": 428,
+  "en": "defendant",
+  "ja": "被告"
+ },
+ {
+  "id": 429,
+  "en": "defy",
+  "ja": "に反抗する"
+ },
+ {
+  "id": 430,
+  "en": "demise",
+  "ja": "死去、終焉"
+ },
+ {
+  "id": 431,
+  "en": "denounce",
+  "ja": "公然と非難する"
+ },
+ {
+  "id": 432,
+  "en": "descend",
+  "ja": "由来する"
+ },
+ {
+  "id": 433,
+  "en": "detrimental",
+  "ja": "有害な"
+ },
+ {
+  "id": 434,
+  "en": "devastate",
+  "ja": "を破壊する"
+ },
+ {
+  "id": 435,
+  "en": "diplomat",
+  "ja": "外交官"
+ },
+ {
+  "id": 436,
+  "en": "discard",
+  "ja": "を捨てる"
+ },
+ {
+  "id": 437,
+  "en": "disperse",
+  "ja": "分配する、分散させる"
+ },
+ {
+  "id": 438,
+  "en": "emulate",
+  "ja": "を見習う、と張り合う"
+ },
+ {
+  "id": 439,
+  "en": "enlighten",
+  "ja": "に教える、を啓発する"
+ },
+ {
+  "id": 440,
+  "en": "exclusively",
+  "ja": "もっぱら、独占的に"
+ },
+ {
+  "id": 441,
+  "en": "facial",
+  "ja": "顔の"
+ },
+ {
+  "id": 442,
+  "en": "feasible",
+  "ja": "実行可能な"
+ },
+ {
+  "id": 443,
+  "en": "fluctuation",
+  "ja": "変動"
+ },
+ {
+  "id": 444,
+  "en": "fraud",
+  "ja": "詐欺"
+ },
+ {
+  "id": 445,
+  "en": "governor",
+  "ja": "知事、統治者"
+ },
+ {
+  "id": 446,
+  "en": "guerrilla",
+  "ja": "ゲリラ"
+ },
+ {
+  "id": 447,
+  "en": "gullible",
+  "ja": "だまされやすい"
+ },
+ {
+  "id": 448,
+  "en": "hamper",
+  "ja": "を妨げる"
+ },
+ {
+  "id": 449,
+  "en": "hedge",
+  "ja": "を生垣で囲む"
+ },
+ {
+  "id": 450,
+  "en": "honesty",
+  "ja": "誠実、正直"
+ },
+ {
+  "id": 451,
+  "en": "humanitarian",
+  "ja": "人道主義の"
+ },
+ {
+  "id": 452,
+  "en": "identical",
+  "ja": "同一の、一卵性の"
+ },
+ {
+  "id": 453,
+  "en": "imprison",
+  "ja": "を投獄する"
+ },
+ {
+  "id": 454,
+  "en": "incompetent",
+  "ja": "無能な"
+ },
+ {
+  "id": 455,
+  "en": "inflict",
+  "ja": "を与える"
+ },
+ {
+  "id": 456,
+  "en": "inheritance",
+  "ja": "遺伝、遺産"
+ },
+ {
+  "id": 457,
+  "en": "injustice",
+  "ja": "不正、不公正"
+ },
+ {
+  "id": 458,
+  "en": "insane",
+  "ja": "ばかげた、正気でない"
+ },
+ {
+  "id": 459,
+  "en": "intact",
+  "ja": "損なわれていない"
+ },
+ {
+  "id": 460,
+  "en": "integral",
+  "ja": "不可欠の、完全な"
+ },
+ {
+  "id": 461,
+  "en": "irrelevant",
+  "ja": "不適切な"
+ },
+ {
+  "id": 462,
+  "en": "lag",
+  "ja": "(時間などの)ずれ"
+ },
+ {
+  "id": 463,
+  "en": "lethal",
+  "ja": "致命的な"
+ },
+ {
+  "id": 464,
+  "en": "linguistics",
+  "ja": "言語学"
+ },
+ {
+  "id": 465,
+  "en": "margin",
+  "ja": "差、利ざや、余白"
+ },
+ {
+  "id": 466,
+  "en": "massacre",
+  "ja": "大虐殺"
+ },
+ {
+  "id": 467,
+  "en": "microscopic",
+  "ja": "顕微鏡でしか見えない"
+ },
+ {
+  "id": 468,
+  "en": "missionary",
+  "ja": "伝道の、布教の"
+ },
+ {
+  "id": 469,
+  "en": "monetary",
+  "ja": "金銭の、貨幣の"
+ },
+ {
+  "id": 470,
+  "en": "mundane",
+  "ja": "ありきたりの、世俗的な"
+ },
+ {
+  "id": 471,
+  "en": "mutate",
+  "ja": "変異する、変化する"
+ },
+ {
+  "id": 472,
+  "en": "neural",
+  "ja": "神経の"
+ },
+ {
+  "id": 473,
+  "en": "obliterate",
+  "ja": "を消す"
+ },
+ {
+  "id": 474,
+  "en": "ongoing",
+  "ja": "継続中の"
+ },
+ {
+  "id": 475,
+  "en": "optimism",
+  "ja": "楽観主義"
+ },
+ {
+  "id": 476,
+  "en": "outright",
+  "ja": "完全な、まぎれもない"
+ },
+ {
+  "id": 477,
+  "en": "paramount",
+  "ja": "最高(位)の"
+ },
+ {
+  "id": 478,
+  "en": "parliament",
+  "ja": "(英国の)議会、国会"
+ },
+ {
+  "id": 479,
+  "en": "patent",
+  "ja": "特許"
+ },
+ {
+  "id": 480,
+  "en": "physiological",
+  "ja": "生理学的な、生理的な"
+ },
+ {
+  "id": 481,
+  "en": "plausible",
+  "ja": "もっともらしい、まことしやかな"
+ },
+ {
+  "id": 482,
+  "en": "policymaker",
+  "ja": "政策立案者"
+ },
+ {
+  "id": 483,
+  "en": "pollen",
+  "ja": "花粉"
+ },
+ {
+  "id": 484,
+  "en": "potent",
+  "ja": "強力な、有効な"
+ },
+ {
+  "id": 485,
+  "en": "privileged",
+  "ja": "特権のある、特権階級の"
+ },
+ {
+  "id": 486,
+  "en": "provoke",
+  "ja": "を挑発する、引き起こす"
+ },
+ {
+  "id": 487,
+  "en": "rally",
+  "ja": "を結集する"
+ },
+ {
+  "id": 488,
+  "en": "ratio",
+  "ja": "比率、割合"
+ },
+ {
+  "id": 489,
+  "en": "readily",
+  "ja": "難なく、たやすく"
+ },
+ {
+  "id": 490,
+  "en": "reassure",
+  "ja": "を安心させる"
+ },
+ {
+  "id": 491,
+  "en": "reconstruction",
+  "ja": "再編、再建、復興"
+ },
+ {
+  "id": 492,
+  "en": "relocation",
+  "ja": "移転、移動"
+ },
+ {
+  "id": 493,
+  "en": "resent",
+  "ja": "に憤る、恨みに思う"
+ },
+ {
+  "id": 494,
+  "en": "resurgence",
+  "ja": "回復"
+ },
+ {
+  "id": 495,
+  "en": "scalp",
+  "ja": "を転売する"
+ },
+ {
+  "id": 496,
+  "en": "secede",
+  "ja": "脱退する"
+ },
+ {
+  "id": 497,
+  "en": "slash",
+  "ja": "を大幅に削減する"
+ },
+ {
+  "id": 498,
+  "en": "squander",
+  "ja": "を浪費する"
+ },
+ {
+  "id": 499,
+  "en": "vicious",
+  "ja": "残酷な、悪意のある"
+ },
+ {
+  "id": 500,
+  "en": "waive",
+  "ja": "(権利など)を放棄する"
+ },
+ {
+  "id": 501,
+  "en": "adherence",
+  "ja": "忠実に守ること"
+ },
+ {
+  "id": 502,
+  "en": "admittedly",
+  "ja": "誰もが(自ら）認めるとおり"
+ },
+ {
+  "id": 503,
+  "en": "ailment",
+  "ja": "病気、不快"
+ },
+ {
+  "id": 504,
+  "en": "albeit",
+  "ja": "～とはいえ"
+ },
+ {
+  "id": 505,
+  "en": "allay",
+  "ja": "を和らげる"
+ },
+ {
+  "id": 506,
+  "en": "allegedly",
+  "ja": "伝えられるところによると"
+ },
+ {
+  "id": 507,
+  "en": "allowance",
+  "ja": "手当、小遣い"
+ },
+ {
+  "id": 508,
+  "en": "archive",
+  "ja": "公文書保管所"
+ },
+ {
+  "id": 509,
+  "en": "arthritis",
+  "ja": "関節炎"
+ },
+ {
+  "id": 510,
+  "en": "articulate",
+  "ja": "をはっきり表現する"
+ },
+ {
+  "id": 511,
+  "en": "astronomer",
+  "ja": "天文学者"
+ },
+ {
+  "id": 512,
+  "en": "atrocity",
+  "ja": "残虐行為"
+ },
+ {
+  "id": 513,
+  "en": "bounty",
+  "ja": "豊かな恵み、助成金"
+ },
+ {
+  "id": 514,
+  "en": "breeder",
+  "ja": "ブリーダー、繁殖家"
+ },
+ {
+  "id": 515,
+  "en": "casualty",
+  "ja": "死傷者、犠牲者"
+ },
+ {
+  "id": 516,
+  "en": "catastrophic",
+  "ja": "破滅的な、悲惨な"
+ },
+ {
+  "id": 517,
+  "en": "censorship",
+  "ja": "検閲"
+ },
+ {
+  "id": 518,
+  "en": "cessation",
+  "ja": "停止"
+ },
+ {
+  "id": 519,
+  "en": "clamor",
+  "ja": "抗議の叫び"
+ },
+ {
+  "id": 520,
+  "en": "clarity",
+  "ja": "鮮明さ、明瞭さ"
+ },
+ {
+  "id": 521,
+  "en": "comparable",
+  "ja": "似通った、匹敵する"
+ },
+ {
+  "id": 522,
+  "en": "confederate",
+  "ja": "共犯者"
+ },
+ {
+  "id": 523,
+  "en": "confession",
+  "ja": "自白、告白"
+ },
+ {
+  "id": 524,
+  "en": "conjunction",
+  "ja": "結合、共同"
+ },
+ {
+  "id": 525,
+  "en": "conserve",
+  "ja": "節約する"
+ },
+ {
+  "id": 526,
+  "en": "consultation",
+  "ja": "相談、診察"
+ },
+ {
+  "id": 527,
+  "en": "contributor",
+  "ja": "一因、寄与するもの"
+ },
+ {
+  "id": 528,
+  "en": "cosmetic",
+  "ja": "美容の、装飾的な"
+ },
+ {
+  "id": 529,
+  "en": "covenant",
+  "ja": "規約、盟約"
+ },
+ {
+  "id": 530,
+  "en": "deepen",
+  "ja": "を深める、深まる"
+ },
+ {
+  "id": 531,
+  "en": "descendant",
+  "ja": "子孫"
+ },
+ {
+  "id": 532,
+  "en": "devise",
+  "ja": "考案する"
+ },
+ {
+  "id": 533,
+  "en": "dictate",
+  "ja": "決定づける"
+ },
+ {
+  "id": 534,
+  "en": "differentiate",
+  "ja": "を区別する"
+ },
+ {
+  "id": 535,
+  "en": "dilemma",
+  "ja": "ジレンマ"
+ },
+ {
+  "id": 536,
+  "en": "disastrous",
+  "ja": "壊滅的な、悲惨な"
+ },
+ {
+  "id": 537,
+  "en": "dissent",
+  "ja": "意見を異にする"
+ },
+ {
+  "id": 538,
+  "en": "dissident",
+  "ja": "異論を持つ、反体制の"
+ },
+ {
+  "id": 539,
+  "en": "doctrine",
+  "ja": "教義、学説"
+ },
+ {
+  "id": 540,
+  "en": "dwelling",
+  "ja": "住宅、住居"
+ },
+ {
+  "id": 541,
+  "en": "dwindle",
+  "ja": "徐々に減少する"
+ },
+ {
+  "id": 542,
+  "en": "elicit",
+  "ja": "を引き出す"
+ },
+ {
+  "id": 543,
+  "en": "enclosure",
+  "ja": "囲われた土地"
+ },
+ {
+  "id": 544,
+  "en": "entice",
+  "ja": "を引き寄せる"
+ },
+ {
+  "id": 545,
+  "en": "evaluation",
+  "ja": "評価、査定"
+ },
+ {
+  "id": 546,
+  "en": "excavation",
+  "ja": "発掘"
+ },
+ {
+  "id": 547,
+  "en": "exorbitant",
+  "ja": "法外な"
+ },
+ {
+  "id": 548,
+  "en": "expedition",
+  "ja": "遠征、探検"
+ },
+ {
+  "id": 549,
+  "en": "exploitation",
+  "ja": "搾取、資源の開発"
+ },
+ {
+  "id": 550,
+  "en": "extensively",
+  "ja": "広範に、大規模に"
+ },
+ {
+  "id": 551,
+  "en": "firearm",
+  "ja": "小火器"
+ },
+ {
+  "id": 552,
+  "en": "firmly",
+  "ja": "堅く、断固として"
+ },
+ {
+  "id": 553,
+  "en": "foray",
+  "ja": "進出、急襲"
+ },
+ {
+  "id": 554,
+  "en": "forefront",
+  "ja": "最先端"
+ },
+ {
+  "id": 555,
+  "en": "freelance",
+  "ja": "フリーランスの、フリーの"
+ },
+ {
+  "id": 556,
+  "en": "freight",
+  "ja": "貨物、運送料"
+ },
+ {
+  "id": 557,
+  "en": "generosity",
+  "ja": "気前のよさ、寛容"
+ },
+ {
+  "id": 558,
+  "en": "genre",
+  "ja": "ジャンル"
+ },
+ {
+  "id": 559,
+  "en": "huddle",
+  "ja": "体を寄せ合う"
+ },
+ {
+  "id": 560,
+  "en": "hunch",
+  "ja": "直感、予感"
+ },
+ {
+  "id": 561,
+  "en": "ideological",
+  "ja": "イデオロギーの"
+ },
+ {
+  "id": 562,
+  "en": "ideology",
+  "ja": "イデオロギー"
+ },
+ {
+  "id": 563,
+  "en": "illustrious",
+  "ja": "著名な"
+ },
+ {
+  "id": 564,
+  "en": "inadvertently",
+  "ja": "不注意に"
+ },
+ {
+  "id": 565,
+  "en": "inception",
+  "ja": "初め、開始"
+ },
+ {
+  "id": 566,
+  "en": "insurmountable",
+  "ja": "克服不可能な"
+ },
+ {
+  "id": 567,
+  "en": "neurologist",
+  "ja": "神経科医"
+ },
+ {
+  "id": 568,
+  "en": "neutrality",
+  "ja": "中立性"
+ },
+ {
+  "id": 569,
+  "en": "oral",
+  "ja": "口頭の、話し言葉の"
+ },
+ {
+  "id": 570,
+  "en": "oust",
+  "ja": "を追い出す"
+ },
+ {
+  "id": 571,
+  "en": "overrun",
+  "ja": "はびこる"
+ },
+ {
+  "id": 572,
+  "en": "perpetrator",
+  "ja": "加害者、犯罪者"
+ },
+ {
+  "id": 573,
+  "en": "pill",
+  "ja": "錠剤"
+ },
+ {
+  "id": 574,
+  "en": "pinpoint",
+  "ja": "非常に正確な"
+ },
+ {
+  "id": 575,
+  "en": "placate",
+  "ja": "をなだめる"
+ },
+ {
+  "id": 576,
+  "en": "precipitation",
+  "ja": "降水量、落下"
+ },
+ {
+  "id": 577,
+  "en": "pretense",
+  "ja": "ふり"
+ },
+ {
+  "id": 578,
+  "en": "priest",
+  "ja": "聖職者、僧侶"
+ },
+ {
+  "id": 579,
+  "en": "profile",
+  "ja": "多作の"
+ },
+ {
+  "id": 580,
+  "en": "propensity",
+  "ja": "傾向、性癖"
+ },
+ {
+  "id": 581,
+  "en": "ransack",
+  "ja": "(場所)を徹底的に探す"
+ },
+ {
+  "id": 582,
+  "en": "rebuke",
+  "ja": "を叱責する"
+ },
+ {
+  "id": 583,
+  "en": "relinquish",
+  "ja": "を放棄する"
+ },
+ {
+  "id": 584,
+  "en": "reverberate",
+  "ja": "鳴り響く"
+ },
+ {
+  "id": 585,
+  "en": "revitalize",
+  "ja": "を復興させる"
+ },
+ {
+  "id": 586,
+  "en": "savvy",
+  "ja": "手腕、知識"
+ },
+ {
+  "id": 587,
+  "en": "skyrocket",
+  "ja": "急騰する"
+ },
+ {
+  "id": 588,
+  "en": "sovereignty",
+  "ja": "主権、統治権"
+ },
+ {
+  "id": 589,
+  "en": "stifle",
+  "ja": "を抑える"
+ },
+ {
+  "id": 590,
+  "en": "stigma",
+  "ja": "汚点、不名誉"
+ },
+ {
+  "id": 591,
+  "en": "substantiate",
+  "ja": "を立証する"
+ },
+ {
+  "id": 592,
+  "en": "swerve",
+  "ja": "急に向きを変える"
+ },
+ {
+  "id": 593,
+  "en": "throng",
+  "ja": "群衆"
+ },
+ {
+  "id": 594,
+  "en": "turmoil",
+  "ja": "騒ぎ"
+ },
+ {
+  "id": 595,
+  "en": "vie",
+  "ja": "競う"
+ },
+ {
+  "id": 596,
+  "en": "vilify",
+  "ja": "を中傷する"
+ },
+ {
+  "id": 597,
+  "en": "vindicate",
+  "ja": "の潔白を証明する"
+ },
+ {
+  "id": 598,
+  "en": "warrior",
+  "ja": "戦士"
+ },
+ {
+  "id": 599,
+  "en": "wreak",
+  "ja": "をもたらす"
+ },
+ {
+  "id": 600,
+  "en": "zenith",
+  "ja": "絶頂"
+ },
+ {
+  "id": 601,
+  "en": "academia",
+  "ja": "学究的世界、アカデミア"
+ },
+ {
+  "id": 602,
+  "en": "anomaly",
+  "ja": "異例な人、異常"
+ },
+ {
+  "id": 603,
+  "en": "appalling",
+  "ja": "ぞっとさせる"
+ },
+ {
+  "id": 604,
+  "en": "appraise",
+  "ja": "を鑑定する"
+ },
+ {
+  "id": 605,
+  "en": "ascribe",
+  "ja": "ＡをＢに帰する"
+ },
+ {
+  "id": 606,
+  "en": "astonishing",
+  "ja": "驚くべき"
+ },
+ {
+  "id": 607,
+  "en": "budge",
+  "ja": "譲歩する、態度を変える"
+ },
+ {
+  "id": 608,
+  "en": "chatter",
+  "ja": "おしゃべりする"
+ },
+ {
+  "id": 609,
+  "en": "conjure",
+  "ja": "を思い起こさせる"
+ },
+ {
+  "id": 610,
+  "en": "containment",
+  "ja": "封じ込め、抑制"
+ },
+ {
+  "id": 611,
+  "en": "cripple",
+  "ja": "の機能をまひさせる"
+ },
+ {
+  "id": 612,
+  "en": "culminate",
+  "ja": "頂点に達する"
+ },
+ {
+  "id": 613,
+  "en": "disproportionate",
+  "ja": "不釣り合いな"
+ },
+ {
+  "id": 614,
+  "en": "downfall",
+  "ja": "没落、衰退"
+ },
+ {
+  "id": 615,
+  "en": "downside",
+  "ja": "欠点、短所"
+ },
+ {
+  "id": 616,
+  "en": "far-reaching",
+  "ja": "広範囲にわたる"
+ },
+ {
+  "id": 617,
+  "en": "foresee",
+  "ja": "を予知する"
+ },
+ {
+  "id": 618,
+  "en": "forlorn",
+  "ja": "寂しげな"
+ },
+ {
+  "id": 619,
+  "en": "grassroots",
+  "ja": "草の根の、民衆の"
+ },
+ {
+  "id": 620,
+  "en": "hurdle",
+  "ja": "困難、障害"
+ },
+ {
+  "id": 621,
+  "en": "ideally",
+  "ja": "理想的には"
+ },
+ {
+  "id": 622,
+  "en": "incarcerate",
+  "ja": "を投獄する"
+ },
+ {
+  "id": 623,
+  "en": "incline",
+  "ja": "を気にさせる"
+ },
+ {
+  "id": 624,
+  "en": "individually",
+  "ja": "個別に"
+ },
+ {
+  "id": 625,
+  "en": "inherently",
+  "ja": "本質的に"
+ },
+ {
+  "id": 626,
+  "en": "inspiration",
+  "ja": "インスピレーション"
+ },
+ {
+  "id": 627,
+  "en": "instability",
+  "ja": "不安定"
+ },
+ {
+  "id": 628,
+  "en": "instrumental",
+  "ja": "役立つ、助けとなる"
+ },
+ {
+  "id": 629,
+  "en": "insulation",
+  "ja": "断熱"
+ },
+ {
+  "id": 630,
+  "en": "intensify",
+  "ja": "を強める"
+ },
+ {
+  "id": 631,
+  "en": "intern",
+  "ja": "研修生"
+ },
+ {
+  "id": 632,
+  "en": "invertebrate",
+  "ja": "無脊椎の"
+ },
+ {
+  "id": 633,
+  "en": "investigative",
+  "ja": "調査の"
+ },
+ {
+  "id": 634,
+  "en": "keystone",
+  "ja": "要、よりどころ"
+ },
+ {
+  "id": 635,
+  "en": "lineup",
+  "ja": "ラインアップ"
+ },
+ {
+  "id": 636,
+  "en": "lodge",
+  "ja": "を申し出る"
+ },
+ {
+  "id": 637,
+  "en": "long-standing",
+  "ja": "長年の"
+ },
+ {
+  "id": 638,
+  "en": "loyalist",
+  "ja": "体制支持者"
+ },
+ {
+  "id": 639,
+  "en": "lull",
+  "ja": "を眠くさせる"
+ },
+ {
+  "id": 640,
+  "en": "martial",
+  "ja": "戦闘の、戦争の"
+ },
+ {
+  "id": 641,
+  "en": "methodology",
+  "ja": "方法論"
+ },
+ {
+  "id": 642,
+  "en": "misunderstand",
+  "ja": "を誤解する"
+ },
+ {
+  "id": 643,
+  "en": "mitigate",
+  "ja": "を和らげる"
+ },
+ {
+  "id": 644,
+  "en": "municipal",
+  "ja": "地方自治体の"
+ },
+ {
+  "id": 645,
+  "en": "murderer",
+  "ja": "殺人犯"
+ },
+ {
+  "id": 646,
+  "en": "nobility",
+  "ja": "貴族"
+ },
+ {
+  "id": 647,
+  "en": "occurrence",
+  "ja": "出来事、事件"
+ },
+ {
+  "id": 648,
+  "en": "organizational",
+  "ja": "組織の"
+ },
+ {
+  "id": 649,
+  "en": "outlaw",
+  "ja": "を非合法化する"
+ },
+ {
+  "id": 650,
+  "en": "overreact",
+  "ja": "過剰反応する"
+ },
+ {
+  "id": 651,
+  "en": "overstate",
+  "ja": "を誇張する"
+ },
+ {
+  "id": 652,
+  "en": "pagan",
+  "ja": "異教の"
+ },
+ {
+  "id": 653,
+  "en": "penalize",
+  "ja": "を罰する"
+ },
+ {
+  "id": 654,
+  "en": "perch",
+  "ja": "パーチ"
+ },
+ {
+  "id": 655,
+  "en": "perpetuate",
+  "ja": "を永続させる"
+ },
+ {
+  "id": 656,
+  "en": "plow",
+  "ja": "（農耕用の）すき"
+ },
+ {
+  "id": 657,
+  "en": "pointless",
+  "ja": "無意味な"
+ },
+ {
+  "id": 658,
+  "en": "practitioner",
+  "ja": "開業者"
+ },
+ {
+  "id": 659,
+  "en": "predecessor",
+  "ja": "前任者"
+ },
+ {
+  "id": 660,
+  "en": "predominantly",
+  "ja": "主として"
+ },
+ {
+  "id": 661,
+  "en": "preferable",
+  "ja": "好ましい"
+ },
+ {
+  "id": 662,
+  "en": "pregnancy",
+  "ja": "妊娠"
+ },
+ {
+  "id": 663,
+  "en": "privatization",
+  "ja": "民営化"
+ },
+ {
+  "id": 664,
+  "en": "progression",
+  "ja": "前進、発達"
+ },
+ {
+  "id": 665,
+  "en": "promising",
+  "ja": "有望な"
+ },
+ {
+  "id": 666,
+  "en": "prosperous",
+  "ja": "繁栄している"
+ },
+ {
+  "id": 667,
+  "en": "reactor",
+  "ja": "原子炉"
+ },
+ {
+  "id": 668,
+  "en": "reflection",
+  "ja": "反映、反射"
+ },
+ {
+  "id": 669,
+  "en": "reign",
+  "ja": "治世、支配"
+ },
+ {
+  "id": 670,
+  "en": "remarkably",
+  "ja": "驚くべきことに"
+ },
+ {
+  "id": 671,
+  "en": "render",
+  "ja": "ＯをＣにする"
+ },
+ {
+  "id": 672,
+  "en": "reproductive",
+  "ja": "繁殖の"
+ },
+ {
+  "id": 673,
+  "en": "resignation",
+  "ja": "辞任"
+ },
+ {
+  "id": 674,
+  "en": "resilient",
+  "ja": "回復力のある"
+ },
+ {
+  "id": 675,
+  "en": "revelation",
+  "ja": "暴露"
+ },
+ {
+  "id": 676,
+  "en": "revival",
+  "ja": "再上演、復活"
+ },
+ {
+  "id": 677,
+  "en": "sane",
+  "ja": "正気の"
+ },
+ {
+  "id": 678,
+  "en": "segment",
+  "ja": "部分、断片"
+ },
+ {
+  "id": 679,
+  "en": "selective",
+  "ja": "選択の厳格な"
+ },
+ {
+  "id": 680,
+  "en": "skeptic",
+  "ja": "懐疑的な人"
+ },
+ {
+  "id": 681,
+  "en": "spokesperson",
+  "ja": "広報官"
+ },
+ {
+  "id": 682,
+  "en": "stakeholder",
+  "ja": "出資者"
+ },
+ {
+  "id": 683,
+  "en": "standpoint",
+  "ja": "観点、立場"
+ },
+ {
+  "id": 684,
+  "en": "stark",
+  "ja": "はっきりした"
+ },
+ {
+  "id": 685,
+  "en": "strategic",
+  "ja": "戦略の"
+ },
+ {
+  "id": 686,
+  "en": "suite",
+  "ja": "スイートルーム"
+ },
+ {
+  "id": 687,
+  "en": "superiority",
+  "ja": "優越、優位"
+ },
+ {
+  "id": 688,
+  "en": "supervise",
+  "ja": "を監督する"
+ },
+ {
+  "id": 689,
+  "en": "suppression",
+  "ja": "抑圧、弾圧"
+ },
+ {
+  "id": 690,
+  "en": "thermal",
+  "ja": "熱の"
+ },
+ {
+  "id": 691,
+  "en": "tolerance",
+  "ja": "寛容、耐性"
+ },
+ {
+  "id": 692,
+  "en": "trench",
+  "ja": "塹壕、海溝"
+ },
+ {
+  "id": 693,
+  "en": "ulcer",
+  "ja": "潰瘍"
+ },
+ {
+  "id": 694,
+  "en": "unity",
+  "ja": "一致、統合"
+ },
+ {
+  "id": 695,
+  "en": "upside",
+  "ja": "長所、上側、上部"
+ },
+ {
+  "id": 696,
+  "en": "verb",
+  "ja": "動詞"
+ },
+ {
+  "id": 697,
+  "en": "voluntary",
+  "ja": "無償の"
+ },
+ {
+  "id": 698,
+  "en": "wane",
+  "ja": "衰える"
+ },
+ {
+  "id": 699,
+  "en": "wetland",
+  "ja": "湿地、湿地帯"
+ },
+ {
+  "id": 700,
+  "en": "worm",
+  "ja": "虫"
+ },
+ {
+  "id": 701,
+  "en": "adjunct",
+  "ja": "非常勤の、補助の"
+ },
+ {
+  "id": 702,
+  "en": "amenity",
+  "ja": "生活を快適にするもの"
+ },
+ {
+  "id": 703,
+  "en": "anesthetic",
+  "ja": "麻酔剤"
+ },
+ {
+  "id": 704,
+  "en": "apathetic",
+  "ja": "無関心な"
+ },
+ {
+  "id": 705,
+  "en": "appease",
+  "ja": "をなだめる"
+ },
+ {
+  "id": 706,
+  "en": "assemble",
+  "ja": "を組み立てる"
+ },
+ {
+  "id": 707,
+  "en": "aversion",
+  "ja": "嫌悪感"
+ },
+ {
+  "id": 708,
+  "en": "avid",
+  "ja": "熱心な、渇望している"
+ },
+ {
+  "id": 709,
+  "en": "basin",
+  "ja": "盆地"
+ },
+ {
+  "id": 710,
+  "en": "brandish",
+  "ja": "を振り回す"
+ },
+ {
+  "id": 711,
+  "en": "buoyant",
+  "ja": "活気がある"
+ },
+ {
+  "id": 712,
+  "en": "candid",
+  "ja": "率直な"
+ },
+ {
+  "id": 713,
+  "en": "caustic",
+  "ja": "辛辣な"
+ },
+ {
+  "id": 714,
+  "en": "chaos",
+  "ja": "無秩序"
+ },
+ {
+  "id": 715,
+  "en": "charlatan",
+  "ja": "ペテン師"
+ },
+ {
+  "id": 716,
+  "en": "circumstantial",
+  "ja": "状況的な、付随的な"
+ },
+ {
+  "id": 717,
+  "en": "clique",
+  "ja": "小集団、派閥"
+ },
+ {
+  "id": 718,
+  "en": "complacency",
+  "ja": "自己満足"
+ },
+ {
+  "id": 719,
+  "en": "condolence",
+  "ja": "お悔み"
+ },
+ {
+  "id": 720,
+  "en": "conglomerate",
+  "ja": "巨大複合企業"
+ },
+ {
+  "id": 721,
+  "en": "conjecture",
+  "ja": "憶測、推測"
+ },
+ {
+  "id": 722,
+  "en": "consecrate",
+  "ja": "を奉献する"
+ },
+ {
+  "id": 723,
+  "en": "cynical",
+  "ja": "冷淡な、シニカル"
+ },
+ {
+  "id": 724,
+  "en": "deluge",
+  "ja": "大洪水、豪雨"
+ },
+ {
+  "id": 725,
+  "en": "deportation",
+  "ja": "国外追放"
+ },
+ {
+  "id": 726,
+  "en": "deviate",
+  "ja": "逸脱する"
+ },
+ {
+  "id": 727,
+  "en": "diminutive",
+  "ja": "小さい"
+ },
+ {
+  "id": 728,
+  "en": "disband",
+  "ja": "軍隊・組織などが解散する"
+ },
+ {
+  "id": 729,
+  "en": "dissolve",
+  "ja": "消える、溶ける"
+ },
+ {
+  "id": 730,
+  "en": "downplay",
+  "ja": "を控えめに話す"
+ },
+ {
+  "id": 731,
+  "en": "echelon",
+  "ja": "地位、階層"
+ },
+ {
+  "id": 732,
+  "en": "encroach",
+  "ja": "侵入する"
+ },
+ {
+  "id": 733,
+  "en": "endow",
+  "ja": "に与える"
+ },
+ {
+  "id": 734,
+  "en": "engender",
+  "ja": "を生じさせる"
+ },
+ {
+  "id": 735,
+  "en": "eradicate",
+  "ja": "を根絶する"
+ },
+ {
+  "id": 736,
+  "en": "erroneous",
+  "ja": "誤った、間違った"
+ },
+ {
+  "id": 737,
+  "en": "eschew",
+  "ja": "を避ける"
+ },
+ {
+  "id": 738,
+  "en": "euphoric",
+  "ja": "幸福感にあふれた"
+ },
+ {
+  "id": 739,
+  "en": "exasperate",
+  "ja": "を憤慨させる"
+ },
+ {
+  "id": 740,
+  "en": "exemplify",
+  "ja": "の実例となる"
+ },
+ {
+  "id": 741,
+  "en": "fastidious",
+  "ja": "好みのうるさい"
+ },
+ {
+  "id": 742,
+  "en": "felony",
+  "ja": "重罪"
+ },
+ {
+  "id": 743,
+  "en": "fervent",
+  "ja": "熱烈な"
+ },
+ {
+  "id": 744,
+  "en": "flock",
+  "ja": "群れを成して移動する"
+ },
+ {
+  "id": 745,
+  "en": "formula",
+  "ja": "公式"
+ },
+ {
+  "id": 746,
+  "en": "frigid",
+  "ja": "冷淡な、酷寒の"
+ },
+ {
+  "id": 747,
+  "en": "frivolous",
+  "ja": "軽薄な"
+ },
+ {
+  "id": 748,
+  "en": "fugitive",
+  "ja": "逃亡者、脱走者"
+ },
+ {
+  "id": 749,
+  "en": "fumble",
+  "ja": "手探りする"
+ },
+ {
+  "id": 750,
+  "en": "gloat",
+  "ja": "ほくそ笑む"
+ },
+ {
+  "id": 751,
+  "en": "gregarious",
+  "ja": "群れをなす"
+ },
+ {
+  "id": 752,
+  "en": "hindrance",
+  "ja": "障害物"
+ },
+ {
+  "id": 753,
+  "en": "hoard",
+  "ja": "を(ひそかに)蓄える"
+ },
+ {
+  "id": 754,
+  "en": "hoax",
+  "ja": "作り話、悪ふざけ"
+ },
+ {
+  "id": 755,
+  "en": "holder",
+  "ja": "所有者"
+ },
+ {
+  "id": 756,
+  "en": "hypothesize",
+  "ja": "という仮説を立てる"
+ },
+ {
+  "id": 757,
+  "en": "idyllic",
+  "ja": "牧歌的な"
+ },
+ {
+  "id": 758,
+  "en": "implicate",
+  "ja": "を意味する"
+ },
+ {
+  "id": 759,
+  "en": "incense",
+  "ja": "を激怒させる"
+ },
+ {
+  "id": 760,
+  "en": "insufficient",
+  "ja": "十分でない、足りない"
+ },
+ {
+  "id": 761,
+  "en": "intricate",
+  "ja": "複雑な"
+ },
+ {
+  "id": 762,
+  "en": "intriguing",
+  "ja": "興味をそそる"
+ },
+ {
+  "id": 763,
+  "en": "inveterate",
+  "ja": "常習的な"
+ },
+ {
+  "id": 764,
+  "en": "irascible",
+  "ja": "短気な"
+ },
+ {
+  "id": 765,
+  "en": "jurisdiction",
+  "ja": "管轄権、支配権"
+ },
+ {
+  "id": 766,
+  "en": "lament",
+  "ja": "嘆き悲しむ"
+ },
+ {
+  "id": 767,
+  "en": "lethargic",
+  "ja": "気だるい、昏睡状態の"
+ },
+ {
+  "id": 768,
+  "en": "leverage",
+  "ja": "影響力"
+ },
+ {
+  "id": 769,
+  "en": "liberty",
+  "ja": "自由"
+ },
+ {
+  "id": 770,
+  "en": "maneuver",
+  "ja": "策略"
+ },
+ {
+  "id": 771,
+  "en": "mankind",
+  "ja": "人類"
+ },
+ {
+  "id": 772,
+  "en": "menial",
+  "ja": "単純で退屈な"
+ },
+ {
+  "id": 773,
+  "en": "modernization",
+  "ja": "近代化"
+ },
+ {
+  "id": 774,
+  "en": "momentous",
+  "ja": "重大な"
+ },
+ {
+  "id": 775,
+  "en": "morsel",
+  "ja": "一口、わずか"
+ },
+ {
+  "id": 776,
+  "en": "perimeter",
+  "ja": "周囲、周辺"
+ },
+ {
+  "id": 777,
+  "en": "persecution",
+  "ja": "迫害"
+ },
+ {
+  "id": 778,
+  "en": "pertinent",
+  "ja": "適切な"
+ },
+ {
+  "id": 779,
+  "en": "precursor",
+  "ja": "前兆、先駆者"
+ },
+ {
+  "id": 780,
+  "en": "prevalence",
+  "ja": "普及"
+ },
+ {
+  "id": 781,
+  "en": "propagate",
+  "ja": "を広める"
+ },
+ {
+  "id": 782,
+  "en": "questionnaire",
+  "ja": "アンケート"
+ },
+ {
+  "id": 783,
+  "en": "rampant",
+  "ja": "はびこる、荒々しい"
+ },
+ {
+  "id": 784,
+  "en": "reciprocate",
+  "ja": "に返礼する"
+ },
+ {
+  "id": 785,
+  "en": "referendum",
+  "ja": "国民投票"
+ },
+ {
+  "id": 786,
+  "en": "relegate",
+  "ja": "を追いやる"
+ },
+ {
+  "id": 787,
+  "en": "revert",
+  "ja": "復帰する、戻る"
+ },
+ {
+  "id": 788,
+  "en": "rout",
+  "ja": "を完敗させる"
+ },
+ {
+  "id": 789,
+  "en": "simplify",
+  "ja": "を簡単にする"
+ },
+ {
+  "id": 790,
+  "en": "statistically",
+  "ja": "統計的に"
+ },
+ {
+  "id": 791,
+  "en": "stroke",
+  "ja": "脳卒中"
+ },
+ {
+  "id": 792,
+  "en": "succumb",
+  "ja": "負ける"
+ },
+ {
+  "id": 793,
+  "en": "supplant",
+  "ja": "地位を奪い取る"
+ },
+ {
+  "id": 794,
+  "en": "swift",
+  "ja": "非常に速い"
+ },
+ {
+  "id": 795,
+  "en": "tenet",
+  "ja": "信条"
+ },
+ {
+  "id": 796,
+  "en": "tolerant",
+  "ja": "寛容な、寛大な"
+ },
+ {
+  "id": 797,
+  "en": "tomb",
+  "ja": "墓"
+ },
+ {
+  "id": 798,
+  "en": "velocity",
+  "ja": "速度"
+ },
+ {
+  "id": 799,
+  "en": "void",
+  "ja": "ない、空の"
+ },
+ {
+  "id": 800,
+  "en": "volatile",
+  "ja": "不安定な、揮発性の"
+ },
+ {
+  "id": 801,
+  "en": "abolition",
+  "ja": "廃止、奴隷制度廃止"
+ },
+ {
+  "id": 802,
+  "en": "abusive",
+  "ja": "罵倒する"
+ },
+ {
+  "id": 803,
+  "en": "acidic",
+  "ja": "酸性の"
+ },
+ {
+  "id": 804,
+  "en": "admiration",
+  "ja": "称賛、感嘆"
+ },
+ {
+  "id": 805,
+  "en": "advantageous",
+  "ja": "有利な"
+ },
+ {
+  "id": 806,
+  "en": "advisory",
+  "ja": "顧問の、助言を与える"
+ },
+ {
+  "id": 807,
+  "en": "aftermath",
+  "ja": "結果、余波"
+ },
+ {
+  "id": 808,
+  "en": "anchor",
+  "ja": "を停泊させる"
+ },
+ {
+  "id": 809,
+  "en": "anonymity",
+  "ja": "匿名性"
+ },
+ {
+  "id": 810,
+  "en": "anthropology",
+  "ja": "人類学"
+ },
+ {
+  "id": 811,
+  "en": "antibody",
+  "ja": "抗体"
+ },
+ {
+  "id": 812,
+  "en": "aquatic",
+  "ja": "水生の、水の"
+ },
+ {
+  "id": 813,
+  "en": "bulk",
+  "ja": "大半、大部分"
+ },
+ {
+  "id": 814,
+  "en": "bypass",
+  "ja": "を避ける、を無視する"
+ },
+ {
+  "id": 815,
+  "en": "capitalist",
+  "ja": "資本主義の"
+ },
+ {
+  "id": 816,
+  "en": "cathedral",
+  "ja": "大聖堂"
+ },
+ {
+  "id": 817,
+  "en": "charismatic",
+  "ja": "カリスマ性のある"
+ },
+ {
+  "id": 818,
+  "en": "coercion",
+  "ja": "威圧、強制"
+ },
+ {
+  "id": 819,
+  "en": "confirmation",
+  "ja": "承認、確認"
+ },
+ {
+  "id": 820,
+  "en": "contention",
+  "ja": "論争、論戦、主張"
+ },
+ {
+  "id": 821,
+  "en": "cooperative",
+  "ja": "協力的な"
+ },
+ {
+  "id": 822,
+  "en": "cruelty",
+  "ja": "残酷さ、冷酷さ"
+ },
+ {
+  "id": 823,
+  "en": "cue",
+  "ja": "きっかけ、キュー、合図"
+ },
+ {
+  "id": 824,
+  "en": "debut",
+  "ja": "デビュー、初登場"
+ },
+ {
+  "id": 825,
+  "en": "deem",
+  "ja": "OをCだと考える"
+ },
+ {
+  "id": 826,
+  "en": "definitive",
+  "ja": "決定的な、最終的な"
+ },
+ {
+  "id": 827,
+  "en": "desperately",
+  "ja": "どうしても、必死に"
+ },
+ {
+  "id": 828,
+  "en": "determination",
+  "ja": "決意"
+ },
+ {
+  "id": 829,
+  "en": "deterrent",
+  "ja": "抑止物"
+ },
+ {
+  "id": 830,
+  "en": "diagnostic",
+  "ja": "診断の、診断に役立つ"
+ },
+ {
+  "id": 831,
+  "en": "distinctive",
+  "ja": "独特の、特徴的な"
+ },
+ {
+  "id": 832,
+  "en": "doctoral",
+  "ja": "博士の、博士号の"
+ },
+ {
+  "id": 833,
+  "en": "dominance",
+  "ja": "優位、支配"
+ },
+ {
+  "id": 834,
+  "en": "editorial",
+  "ja": "社説、論説"
+ },
+ {
+  "id": 835,
+  "en": "endorsement",
+  "ja": "承認、是認"
+ },
+ {
+  "id": 836,
+  "en": "envelop",
+  "ja": "を包む"
+ },
+ {
+  "id": 837,
+  "en": "eventual",
+  "ja": "最終的な、結局の"
+ },
+ {
+  "id": 838,
+  "en": "excursion",
+  "ja": "遠足、小旅行"
+ },
+ {
+  "id": 839,
+  "en": "extremist",
+  "ja": "過激派"
+ },
+ {
+  "id": 840,
+  "en": "foremost",
+  "ja": "主要な、一流の"
+ },
+ {
+  "id": 841,
+  "en": "frustration",
+  "ja": "欲求不満"
+ },
+ {
+  "id": 842,
+  "en": "glare",
+  "ja": "まぶしい輝き"
+ },
+ {
+  "id": 843,
+  "en": "groundwater",
+  "ja": "地下水"
+ },
+ {
+  "id": 844,
+  "en": "hasten",
+  "ja": "急いで～する"
+ },
+ {
+  "id": 845,
+  "en": "heroic",
+  "ja": "英雄的な、勇敢な"
+ },
+ {
+  "id": 846,
+  "en": "hierarchical",
+  "ja": "階層制の"
+ },
+ {
+  "id": 847,
+  "en": "homicide",
+  "ja": "殺人"
+ },
+ {
+  "id": 848,
+  "en": "humane",
+  "ja": "人間味のある"
+ },
+ {
+  "id": 849,
+  "en": "imagery",
+  "ja": "比喩的表現"
+ },
+ {
+  "id": 850,
+  "en": "incoming",
+  "ja": "到着する、入ってくる"
+ },
+ {
+  "id": 851,
+  "en": "infamous",
+  "ja": "悪名高い"
+ },
+ {
+  "id": 852,
+  "en": "insignificant",
+  "ja": "ささいな"
+ },
+ {
+  "id": 853,
+  "en": "interactive",
+  "ja": "対話形式の"
+ },
+ {
+  "id": 854,
+  "en": "interrogation",
+  "ja": "尋問"
+ },
+ {
+  "id": 855,
+  "en": "lecturer",
+  "ja": "非常勤講師"
+ },
+ {
+  "id": 856,
+  "en": "legislator",
+  "ja": "議員"
+ },
+ {
+  "id": 857,
+  "en": "liberation",
+  "ja": "解放"
+ },
+ {
+  "id": 858,
+  "en": "lieutenant",
+  "ja": "中尉"
+ },
+ {
+  "id": 859,
+  "en": "managerial",
+  "ja": "管理の、経営の"
+ },
+ {
+  "id": 860,
+  "en": "mandate",
+  "ja": "(選挙で与えられた)権限"
+ },
+ {
+  "id": 861,
+  "en": "maternity",
+  "ja": "妊産婦の、母性"
+ },
+ {
+  "id": 862,
+  "en": "membrane",
+  "ja": "(細胞)膜、皮膜"
+ },
+ {
+  "id": 863,
+  "en": "memorial",
+  "ja": "記念碑、記念物"
+ },
+ {
+  "id": 864,
+  "en": "merger",
+  "ja": "合弁"
+ },
+ {
+  "id": 865,
+  "en": "mob",
+  "ja": "暴徒、群衆"
+ },
+ {
+  "id": 866,
+  "en": "monarchy",
+  "ja": "君主制、君主国"
+ },
+ {
+  "id": 867,
+  "en": "multiply",
+  "ja": "増殖(繁殖)する"
+ },
+ {
+  "id": 868,
+  "en": "negate",
+  "ja": "を否定する"
+ },
+ {
+  "id": 869,
+  "en": "nudge",
+  "ja": "を(肘で)そっとつつく"
+ },
+ {
+  "id": 870,
+  "en": "omniscient",
+  "ja": "博学な、全知の"
+ },
+ {
+  "id": 871,
+  "en": "onerous",
+  "ja": "厄介な"
+ },
+ {
+  "id": 872,
+  "en": "onslaught",
+  "ja": "猛攻撃"
+ },
+ {
+  "id": 873,
+  "en": "perpetrate",
+  "ja": "を犯す"
+ },
+ {
+  "id": 874,
+  "en": "pester",
+  "ja": "を困らせる"
+ },
+ {
+  "id": 875,
+  "en": "pinnacle",
+  "ja": "頂点"
+ },
+ {
+  "id": 876,
+  "en": "pollination",
+  "ja": "授粉"
+ },
+ {
+  "id": 877,
+  "en": "poignant",
+  "ja": "心を打つ、痛切な"
+ },
+ {
+  "id": 878,
+  "en": "predatory",
+  "ja": "捕食性の"
+ },
+ {
+  "id": 879,
+  "en": "preside",
+  "ja": "管理する"
+ },
+ {
+  "id": 880,
+  "en": "pretext",
+  "ja": "口実"
+ },
+ {
+  "id": 881,
+  "en": "quirk",
+  "ja": "奇癖"
+ },
+ {
+  "id": 882,
+  "en": "ratify",
+  "ja": "を批准する"
+ },
+ {
+  "id": 883,
+  "en": "reinstate",
+  "ja": "を復職させる"
+ },
+ {
+  "id": 884,
+  "en": "reparation",
+  "ja": "償い"
+ },
+ {
+  "id": 885,
+  "en": "respite",
+  "ja": "中断、休息(期間)"
+ },
+ {
+  "id": 886,
+  "en": "revamp",
+  "ja": "を改良する"
+ },
+ {
+  "id": 887,
+  "en": "sluggish",
+  "ja": "活気のない"
+ },
+ {
+  "id": 888,
+  "en": "smear",
+  "ja": "を塗りつける"
+ },
+ {
+  "id": 889,
+  "en": "solace",
+  "ja": "慰め、癒し"
+ },
+ {
+  "id": 890,
+  "en": "splurge",
+  "ja": "をぜいたくに使う"
+ },
+ {
+  "id": 891,
+  "en": "sporadic",
+  "ja": "散発的な"
+ },
+ {
+  "id": 892,
+  "en": "squeamish",
+  "ja": "吐き気を催す"
+ },
+ {
+  "id": 893,
+  "en": "stalemate",
+  "ja": "膠着状態"
+ },
+ {
+  "id": 894,
+  "en": "stunt",
+  "ja": "を妨げる"
+ },
+ {
+  "id": 895,
+  "en": "superfluous",
+  "ja": "過剰の、余分な"
+ },
+ {
+  "id": 896,
+  "en": "transgression",
+  "ja": "違反する"
+ },
+ {
+  "id": 897,
+  "en": "trim",
+  "ja": "を削減する"
+ },
+ {
+  "id": 898,
+  "en": "ulterior",
+  "ja": "隠された"
+ },
+ {
+  "id": 899,
+  "en": "upstart",
+  "ja": "成金"
+ },
+ {
+  "id": 900,
+  "en": "verbose",
+  "ja": "回りくどい"
+ },
+ {
+  "id": 901,
+  "en": "Christianity",
+  "ja": "キリスト教"
+ },
+ {
+  "id": 902,
+  "en": "accolade",
+  "ja": "称賛、賛美"
+ },
+ {
+  "id": 903,
+  "en": "additive",
+  "ja": "添加物"
+ },
+ {
+  "id": 904,
+  "en": "arid",
+  "ja": "ひどく乾燥した"
+ },
+ {
+  "id": 905,
+  "en": "asexual",
+  "ja": "無性の、生殖器のない"
+ },
+ {
+  "id": 906,
+  "en": "assuage",
+  "ja": "和らげる、静める"
+ },
+ {
+  "id": 907,
+  "en": "astounding",
+  "ja": "仰天するような"
+ },
+ {
+  "id": 908,
+  "en": "autonomous",
+  "ja": "自律的な"
+ },
+ {
+  "id": 909,
+  "en": "benevolent",
+  "ja": "善意の"
+ },
+ {
+  "id": 910,
+  "en": "bigotry",
+  "ja": "偏狭、頑迷"
+ },
+ {
+  "id": 911,
+  "en": "billionaire",
+  "ja": "億万長者"
+ },
+ {
+  "id": 912,
+  "en": "burglar",
+  "ja": "強盗、泥棒"
+ },
+ {
+  "id": 913,
+  "en": "by-product",
+  "ja": "副産物"
+ },
+ {
+  "id": 914,
+  "en": "canine",
+  "ja": "犬の"
+ },
+ {
+  "id": 915,
+  "en": "cardiopulmonary",
+  "ja": "心肺の"
+ },
+ {
+  "id": 916,
+  "en": "cede",
+  "ja": "を譲渡する"
+ },
+ {
+  "id": 917,
+  "en": "clot",
+  "ja": "塊、凝血"
+ },
+ {
+  "id": 918,
+  "en": "coalesce",
+  "ja": "合体する"
+ },
+ {
+  "id": 919,
+  "en": "condominium",
+  "ja": "分譲マンション"
+ },
+ {
+  "id": 920,
+  "en": "conscientious",
+  "ja": "誠実な、念入りの"
+ },
+ {
+  "id": 921,
+  "en": "conservationist",
+  "ja": "自然保護論者"
+ },
+ {
+  "id": 922,
+  "en": "consternation",
+  "ja": "仰天、驚愕"
+ },
+ {
+  "id": 923,
+  "en": "criminality",
+  "ja": "犯罪性、犯罪行為"
+ },
+ {
+  "id": 924,
+  "en": "dealership",
+  "ja": "ディーラー、特約店"
+ },
+ {
+  "id": 925,
+  "en": "delinquent",
+  "ja": "未納の、非行の"
+ },
+ {
+  "id": 926,
+  "en": "divulge",
+  "ja": "を漏らす、を暴く"
+ },
+ {
+  "id": 927,
+  "en": "domesticate",
+  "ja": "を家畜化する"
+ },
+ {
+  "id": 928,
+  "en": "douse",
+  "ja": "火や明りを消す"
+ },
+ {
+  "id": 929,
+  "en": "enchant",
+  "ja": "を魅了する"
+ },
+ {
+  "id": 930,
+  "en": "foe",
+  "ja": "敵"
+ },
+ {
+  "id": 931,
+  "en": "frustrating",
+  "ja": "欲求不満をおこさせる"
+ },
+ {
+  "id": 932,
+  "en": "fund-raising",
+  "ja": "資金集め"
+ },
+ {
+  "id": 933,
+  "en": "immoral",
+  "ja": "不道徳な、ふしだらな"
+ },
+ {
+  "id": 934,
+  "en": "impeach",
+  "ja": "を弾劾(告発)する"
+ },
+ {
+  "id": 935,
+  "en": "infringe",
+  "ja": "を侵害する"
+ },
+ {
+  "id": 936,
+  "en": "inspiring",
+  "ja": "鼓舞する"
+ },
+ {
+  "id": 937,
+  "en": "insurgency",
+  "ja": "暴動、反乱"
+ },
+ {
+  "id": 938,
+  "en": "interstate",
+  "ja": "各州間の"
+ },
+ {
+  "id": 939,
+  "en": "maim",
+  "ja": "の肢体を不自由にする"
+ },
+ {
+  "id": 940,
+  "en": "migrant",
+  "ja": "移住者"
+ },
+ {
+  "id": 941,
+  "en": "misinterpret",
+  "ja": "を誤って解釈する"
+ },
+ {
+  "id": 942,
+  "en": "misleading",
+  "ja": "誤解させる"
+ },
+ {
+  "id": 943,
+  "en": "multicultural",
+  "ja": "多文化の"
+ },
+ {
+  "id": 944,
+  "en": "multinational",
+  "ja": "多国籍の"
+ },
+ {
+  "id": 945,
+  "en": "nasty",
+  "ja": "病気などが重い"
+ },
+ {
+  "id": 946,
+  "en": "nausea",
+  "ja": "吐き気"
+ },
+ {
+  "id": 947,
+  "en": "omit",
+  "ja": "を省く、省略する"
+ },
+ {
+  "id": 948,
+  "en": "optimal",
+  "ja": "最善の、最適な"
+ },
+ {
+  "id": 949,
+  "en": "organized",
+  "ja": "てきぱきとした、組織された"
+ },
+ {
+  "id": 950,
+  "en": "outstrip",
+  "ja": "上回る"
+ },
+ {
+  "id": 951,
+  "en": "overemphasize",
+  "ja": "を強調しすぎる"
+ },
+ {
+  "id": 952,
+  "en": "parliamentary",
+  "ja": "議会の、議会制の"
+ },
+ {
+  "id": 953,
+  "en": "patriotism",
+  "ja": "愛国心"
+ },
+ {
+  "id": 954,
+  "en": "pivotal",
+  "ja": "きわめて重要な、中心的な"
+ },
+ {
+  "id": 955,
+  "en": "postwar",
+  "ja": "戦後の"
+ },
+ {
+  "id": 956,
+  "en": "prestigious",
+  "ja": "名声の高い、威信のある"
+ },
+ {
+  "id": 957,
+  "en": "protocol",
+  "ja": "典範"
+ },
+ {
+  "id": 958,
+  "en": "qualified",
+  "ja": "適任の、資格がある"
+ },
+ {
+  "id": 959,
+  "en": "radically",
+  "ja": "根本的に、徹底的に"
+ },
+ {
+  "id": 960,
+  "en": "raid",
+  "ja": "(警察の)手入れ、急襲"
+ },
+ {
+  "id": 961,
+  "en": "redirect",
+  "ja": "の用途を変える"
+ },
+ {
+  "id": 962,
+  "en": "regeneration",
+  "ja": "(器官などの)再生、再建"
+ },
+ {
+  "id": 963,
+  "en": "regress",
+  "ja": "退化する"
+ },
+ {
+  "id": 964,
+  "en": "rein",
+  "ja": "統制力、制御"
+ },
+ {
+  "id": 965,
+  "en": "replica",
+  "ja": "レプリカ、複製"
+ },
+ {
+  "id": 966,
+  "en": "residual",
+  "ja": "余りの、残余の"
+ },
+ {
+  "id": 967,
+  "en": "retailer",
+  "ja": "小売業者"
+ },
+ {
+  "id": 968,
+  "en": "reunify",
+  "ja": "を再統一する"
+ },
+ {
+  "id": 969,
+  "en": "rhetoric",
+  "ja": "レトリック、巧言"
+ },
+ {
+  "id": 970,
+  "en": "senate",
+  "ja": "上院"
+ },
+ {
+  "id": 971,
+  "en": "sequester",
+  "ja": "を隔離する"
+ },
+ {
+  "id": 972,
+  "en": "shipment",
+  "ja": "発送物、発送、出荷品"
+ },
+ {
+  "id": 973,
+  "en": "shortcoming",
+  "ja": "短所、欠点"
+ },
+ {
+  "id": 974,
+  "en": "shrub",
+  "ja": "低木"
+ },
+ {
+  "id": 975,
+  "en": "skepticism",
+  "ja": "懐疑心"
+ },
+ {
+  "id": 976,
+  "en": "slack",
+  "ja": "緩んだ、怠慢な"
+ },
+ {
+  "id": 977,
+  "en": "solidify",
+  "ja": "を固める、を強化する"
+ },
+ {
+  "id": 978,
+  "en": "sophistication",
+  "ja": "洗練、精巧さ"
+ },
+ {
+  "id": 979,
+  "en": "sow",
+  "ja": "種をまく"
+ },
+ {
+  "id": 980,
+  "en": "squeak",
+  "ja": "金切り声"
+ },
+ {
+  "id": 981,
+  "en": "strand",
+  "ja": "髪の毛の房"
+ },
+ {
+  "id": 982,
+  "en": "synthesis",
+  "ja": "合成、統合"
+ },
+ {
+  "id": 983,
+  "en": "tangible",
+  "ja": "明白な、確実な"
+ },
+ {
+  "id": 984,
+  "en": "taxation",
+  "ja": "課税、税制"
+ },
+ {
+  "id": 985,
+  "en": "tenant",
+  "ja": "借家人、テナント"
+ },
+ {
+  "id": 986,
+  "en": "throne",
+  "ja": "王位、王座"
+ },
+ {
+  "id": 987,
+  "en": "transcript",
+  "ja": "文字起こししたもの"
+ },
+ {
+  "id": 988,
+  "en": "tribal",
+  "ja": "部族の"
+ },
+ {
+  "id": 989,
+  "en": "unavoidable",
+  "ja": "避けられない"
+ },
+ {
+  "id": 990,
+  "en": "unconstitutional",
+  "ja": "違憲の"
+ },
+ {
+  "id": 991,
+  "en": "unilateral",
+  "ja": "(決定などが)一方的な"
+ },
+ {
+  "id": 992,
+  "en": "vaccination",
+  "ja": "ワクチン接種"
+ },
+ {
+  "id": 993,
+  "en": "vacuum",
+  "ja": "電気掃除機"
+ },
+ {
+  "id": 994,
+  "en": "venerate",
+  "ja": "を敬う"
+ },
+ {
+  "id": 995,
+  "en": "vertical",
+  "ja": "垂直の、縦の"
+ },
+ {
+  "id": 996,
+  "en": "viable",
+  "ja": "実行可能な、実現性のある"
+ },
+ {
+  "id": 997,
+  "en": "virgin",
+  "ja": "人跡未踏の、処女の"
+ },
+ {
+  "id": 998,
+  "en": "vulnerability",
+  "ja": "受けやすい、かかりやすい"
+ },
+ {
+  "id": 999,
+  "en": "wary",
+  "ja": "用心(注意)深い"
+ },
+ {
+  "id": 1000,
+  "en": "wrinkle",
+  "ja": "(顔･布などの)しわ"
+ }
+]
